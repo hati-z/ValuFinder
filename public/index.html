@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ValuFinder | Premium Stock Screener</title>
+    <!-- Modern Typography: Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Phosphor Icons for premium aesthetic icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation / Filters -->
+        <aside class="sidebar glass-panel">
+            <div class="sidebar-header">
+                <i class="ph ph-chart-line-up logo-icon"></i>
+                <h1 class="logo-text">ValuFinder<span class="dot">.</span></h1>
+            </div>
+
+            <div class="filter-section">
+                <h3 class="filter-title">Quality Metrics</h3>
+
+                <div class="filter-group">
+                    <label class="filter-label" for="roe-filter">Company Quality (ROE)</label>
+                    <div class="custom-select">
+                        <select id="roe-filter">
+                            <option value="all">All Companies</option>
+                            <option value="Exceptional" selected>Exceptional (>25%)</option>
+                            <option value="High">High (>15%)</option>
+                        </select>
+                        <i class="ph ph-caret-down select-icon"></i>
+                    </div>
+                </div>
+
+                <h3 class="filter-title mt-6">Valuation</h3>
+
+                <div class="filter-group">
+                    <div class="slider-header">
+                        <label class="filter-label" for="pe-slider">Max Forward P/E</label>
+                        <span id="pe-value-display" class="value-display">25.0</span>
+                    </div>
+                    <input type="range" id="pe-slider" min="10" max="100" step="0.5" value="25.0"
+                        class="premium-slider">
+                    <div class="slider-labels">
+                        <span>10</span>
+                        <span>100</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <p class="stats-text" id="result-count">0 stocks found</p>
+                <button id="reset-filters" class="btn-ghost">Reset Filters</button>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <header class="top-nav glass-panel">
+                <div class="search-bar">
+                    <i class="ph ph-magnifying-glass search-icon"></i>
+                    <input type="text" id="search-input" placeholder="Search by symbol or company name...">
+                </div>
+
+                <div class="sort-controls">
+                    <span class="sort-label">Sort by:</span>
+                    <button class="sort-btn active" data-sort="pe">Valuation (P/E) <i
+                            class="ph ph-sort-ascending"></i></button>
+                    <button class="sort-btn" data-sort="name">Name <i class="ph ph-sort-ascending"></i></button>
+                </div>
+            </header>
+
+            <div class="content-scroll-area">
+                <div id="stock-grid" class="stock-grid">
+                    <!-- Stock Cards will be injected here by app.js -->
+                    <div class="loading-state">
+                        <div class="spinner"></div>
+                        <p>Fetching real-time data from Yahoo Finance...</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Core App Logic -->
+    <script src="app.js"></script>
+</body>
+
+</html>
