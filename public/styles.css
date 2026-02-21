@@ -418,6 +418,88 @@ body {
   opacity: 1;
 }
 
+/* --- New Moat Section Styles --- */
+.moat-section {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-light);
+  background: var(--bg-surface-elevated);
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 8px;
+}
+
+.moat-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.moat-title {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.moat-overall-badge {
+  background-color: var(--accent-wide-moat-bg);
+  color: var(--accent-wide-moat);
+  font-size: 13px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(139, 92, 246, 0.3);
+}
+
+.moat-bars {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.moat-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.moat-label {
+  width: 95px;
+  font-size: 11px;
+  color: var(--text-secondary);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.moat-bar-container {
+  flex-grow: 1;
+  height: 6px;
+  background-color: var(--bg-surface);
+  border-radius: 3px;
+  overflow: hidden;
+  border: 1px solid var(--border-light);
+}
+
+.moat-bar-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--accent-primary), var(--accent-wide-moat));
+  border-radius: 3px;
+  transition: width 0.5s ease-out;
+}
+
+.moat-score {
+  width: 26px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--text-primary);
+  text-align: right;
+  font-family: monospace;
+}
+
 .card-header {
   display: flex;
   justify-content: space-between;
@@ -510,8 +592,10 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 16px;
   border-top: 1px solid var(--border-light);
+  padding-top: 16px;
+  margin-top: 16px;
+  /* Added margin-top to separate from metrics or moat */
 }
 
 .price {
@@ -537,5 +621,43 @@ body {
 
 .change-badge.negative {
   background: var(--accent-danger-bg);
+  color: var(--accent-danger);
+}
+
+/* --- Extended Metrics --- */
+.extended-metrics {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px dashed var(--border-light);
+}
+
+.ext-metric {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ext-label {
+  font-size: 10px;
+  color: var(--text-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.ext-value {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--text-primary);
+  font-family: monospace;
+}
+
+.positive-text {
+  color: var(--accent-success);
+}
+
+.negative-text {
   color: var(--accent-danger);
 }

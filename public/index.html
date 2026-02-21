@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <!-- Phosphor Icons for premium aesthetic icons -->
     <script src="https://unpkg.com/@phosphor-icons/web"></script>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styles.css?v=5">
 </head>
 
 <body>
@@ -38,18 +38,34 @@
                     </div>
                 </div>
 
+                <h3 class="filter-title mt-6">Moat Strength</h3>
+
+                <div class="filter-group">
+                    <div class="slider-header">
+                        <label class="filter-label" for="moat-slider">Min Overall Moat</label>
+                        <span id="moat-value-display" class="value-display"
+                            style="color: var(--accent-wide-moat); background: var(--accent-wide-moat-bg);">0.0</span>
+                    </div>
+                    <input type="range" id="moat-slider" min="0" max="10" step="0.5" value="0.0" class="premium-slider"
+                        style="background: linear-gradient(90deg, var(--accent-primary), var(--accent-wide-moat));">
+                    <div class="slider-labels">
+                        <span>0.0</span>
+                        <span>10.0</span>
+                    </div>
+                </div>
+
                 <h3 class="filter-title mt-6">Valuation</h3>
 
                 <div class="filter-group">
                     <div class="slider-header">
                         <label class="filter-label" for="pe-slider">Max Forward P/E</label>
-                        <span id="pe-value-display" class="value-display">25.0</span>
+                        <span id="pe-value-display" class="value-display">35.0</span>
                     </div>
-                    <input type="range" id="pe-slider" min="10" max="100" step="0.5" value="25.0"
+                    <input type="range" id="pe-slider" min="10" max="100" step="0.5" value="35.0"
                         class="premium-slider">
                     <div class="slider-labels">
                         <span>10</span>
-                        <span>100</span>
+                        <span>100+</span>
                     </div>
                 </div>
             </div>
@@ -71,8 +87,9 @@
                 <div class="sort-controls">
                     <span class="sort-label">Sort by:</span>
                     <button class="sort-btn active" data-sort="pe">Valuation (P/E) <i
-                            class="ph ph-sort-ascending"></i></button>
-                    <button class="sort-btn" data-sort="name">Name <i class="ph ph-sort-ascending"></i></button>
+                            class="ph ph-sort-descending"></i></button>
+                    <button class="sort-btn" data-sort="moat">Moat Score <i class="ph ph-sort-ascending"></i></button>
+                    <button class="sort-btn" data-sort="name">Name <i class="ph ph-sort-descending"></i></button>
                 </div>
             </header>
 
@@ -89,7 +106,7 @@
     </div>
 
     <!-- Core App Logic -->
-    <script src="app.js"></script>
+    <script src="app.js?v=8"></script>
 </body>
 
 </html>
