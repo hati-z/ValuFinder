@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Initialize App
     async function init() {
         try {
-            const response = await fetch('./financial_data.json');
+            const response = await fetch('financial_data.json');
             if (!response.ok) throw new Error('Failed to load stock data');
 
             allStocks = await response.json();
