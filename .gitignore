@@ -14,5 +14,3 @@ Thumbs.db
 
 # Project-specific ignores
 *.log
-moat_data.csv
-financial_data.json
