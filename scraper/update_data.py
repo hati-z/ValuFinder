@@ -1,5 +1,3 @@
-from flask import Flask, jsonify
-from flask_cors import CORS
 import yfinance as yf
 
 import pandas as pd
@@ -8,7 +6,7 @@ import time
 import os
 import csv
 import json
-from datetime import datetime, timedelta
+from datetime import datetime
 from google import genai
 from google.genai import types
 import hashlib
@@ -16,31 +14,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-app = Flask(__name__)
-CORS(app)
-
-CACHE_TIMEOUT = 3600 # 1 hour cache for fast frontend delivery
-cached_stocks = None
-last_fetch_time = 0
-
 MOAT_CACHE_FILE = 'moat_data.csv'
-FINANCIAL_CACHE_FILE = 'financial_data.json'
+FINANCIAL_CACHE_FILE = '../financial_data.json'
 
 def load_financial_cache():
-    if not os.path.exists(FINANCIAL_CACHE_FILE):
-        return None
-    mtime = os.path.getmtime(FINANCIAL_CACHE_FILE)
-    file_time = datetime.fromtimestamp(mtime)
-    # Cache financial data for 12 hours (refreshes twice a day)
-    if datetime.now() - file_time > timedelta(hours=12):
-        return None
-    
-    try:
-        with open(FINANCIAL_CACHE_FILE, 'r') as f:
-            return json.load(f)
-    except Exception as e:
-        print(f"Error loading financial cache: {e}")
-        return None
+    return None
 
 def save_financial_cache(data):
     try:
@@ -51,10 +29,6 @@ def save_financial_cache(data):
 
 def load_moat_cache():
     if not os.path.exists(MOAT_CACHE_FILE):
-        return None
-    mtime = os.path.getmtime(MOAT_CACHE_FILE)
-    file_time = datetime.fromtimestamp(mtime)
-    if datetime.now() - file_time > timedelta(hours=24):
         return None
     
     moat_data = {}
@@ -189,27 +163,11 @@ def get_sp500_symbols():
         # Safe fallback
         return ["MSFT", "AAPL", "NVDA", "AMZN", "GOOGL"]
 
-@app.route('/api/stocks')
-def get_stocks():
-    global cached_stocks, last_fetch_time
-    
-    current_time = time.time()
-    # 1. Try Memory Cache (Fastest)
-    if cached_stocks is not None and (current_time - last_fetch_time) < CACHE_TIMEOUT:
-        return jsonify(cached_stocks)
-
-    # 2. Try Disk Cache (Instant server restarts)
-    disk_cache = load_financial_cache()
-    if disk_cache is not None:
-        cached_stocks = disk_cache
-        last_fetch_time = current_time
-        return jsonify(disk_cache)
-
-    # 3. Fetch from APIs
+def main():
     try:
         symbols = get_sp500_symbols()
         
-        # Load or generate moat data (24 hr cache)
+        # Load or generate moat data
         moat_data_map = load_moat_cache()
         if not moat_data_map:
             moat_data_map = update_moat_cache(symbols)
@@ -252,15 +210,15 @@ def get_stocks():
                 if result:
                     stock_data_list.append(result)
         
+        # Sort the results by symbol for consistency
+        stock_data_list.sort(key=lambda x: x["symbol"])
+        
         # Update caches
         save_financial_cache(stock_data_list)
-        cached_stocks = stock_data_list
-        last_fetch_time = current_time
-        return jsonify(stock_data_list)
+        print(f"Finished scraping {len(stock_data_list)} stocks to {FINANCIAL_CACHE_FILE}")
         
     except Exception as e:
         print(f"Global error fetching stocks: {e}")
-        return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(port=3000, debug=True)
+    main()
