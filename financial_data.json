@@ -23,6 +23,29 @@
         }
     },
     {
+        "symbol": "AAPL",
+        "name": "Apple Inc.",
+        "price": 272.14,
+        "forwardPE": 29.26498,
+        "roe": 152.02099,
+        "sector": "Technology",
+        "change": 2.2390863325569086,
+        "marketCap": 3999893815296,
+        "dividendYield": 38.0,
+        "revenueGrowth": 15.7,
+        "debtToEquity": 102.63,
+        "freeCashflow": 106312753152,
+        "priceToBook": 45.37179,
+        "moat": {
+            "brandLoyalty": 7.7,
+            "barriersToEntry": 6.8,
+            "switchingCost": 4.1,
+            "networkEffect": 4.5,
+            "economiesOfScale": 6.9,
+            "overall": 6.0
+        }
+    },
+    {
         "symbol": "ABBV",
         "name": "AbbVie Inc.",
         "price": 228.44,
@@ -89,6 +112,29 @@
             "networkEffect": 8.8,
             "economiesOfScale": 7.5,
             "overall": 7.3
+        }
+    },
+    {
+        "symbol": "ACGL",
+        "name": "Arch Capital Group Ltd.",
+        "price": 99.18,
+        "forwardPE": 9.816886,
+        "roe": 19.540001,
+        "sector": "Financial Services",
+        "change": 0.48632218844985203,
+        "marketCap": 35965243392,
+        "dividendYield": 0,
+        "revenueGrowth": 8.5,
+        "debtToEquity": 11.274,
+        "freeCashflow": 26780749824,
+        "priceToBook": 1.5166762,
+        "moat": {
+            "brandLoyalty": 4.0,
+            "barriersToEntry": 6.6,
+            "switchingCost": 3.0,
+            "networkEffect": 9.2,
+            "economiesOfScale": 8.4,
+            "overall": 6.2
         }
     },
     {
@@ -434,6 +480,29 @@
             "networkEffect": 7.0,
             "economiesOfScale": 6.8,
             "overall": 5.4
+        }
+    },
+    {
+        "symbol": "ALGN",
+        "name": "Align Technology, Inc.",
+        "price": 185.53,
+        "forwardPE": 15.173511,
+        "roe": 10.3870004,
+        "sector": "Healthcare",
+        "change": 2.355732097539452,
+        "marketCap": 13448395776,
+        "dividendYield": 0,
+        "revenueGrowth": 5.3,
+        "debtToEquity": 2.038,
+        "freeCashflow": 410956000,
+        "priceToBook": 3.2845306,
+        "moat": {
+            "brandLoyalty": 7.8,
+            "barriersToEntry": 3.2,
+            "switchingCost": 3.9,
+            "networkEffect": 3.4,
+            "economiesOfScale": 7.1,
+            "overall": 5.1
         }
     },
     {
@@ -1038,7 +1107,7 @@
         "symbol": "AXON",
         "name": "Axon Enterprise, Inc.",
         "price": 442.51,
-        "forwardPE": 44.14342,
+        "forwardPE": 43.4352,
         "roe": 10.027999999999999,
         "sector": "Industrials",
         "change": 4.503589646703191,
@@ -2533,7 +2602,7 @@
         "symbol": "CRH",
         "name": "CRH PLC",
         "price": 122.66,
-        "forwardPE": 18.522854,
+        "forwardPE": 18.512566,
         "roe": 15.684000000000001,
         "sector": "Basic Materials",
         "change": 0.9630422256975897,
@@ -2648,7 +2717,7 @@
         "symbol": "CSGP",
         "name": "CoStar Group, Inc.",
         "price": 49.15,
-        "forwardPE": 26.9116,
+        "forwardPE": 27.138803,
         "roe": 0.252,
         "sector": "Real Estate",
         "change": 2.673908502193443,
@@ -4281,7 +4350,7 @@
         "symbol": "FIS",
         "name": "Fidelity National Information S",
         "price": 48.11,
-        "forwardPE": 7.0407696,
+        "forwardPE": 7.0430784,
         "roe": 2.6010001000000003,
         "sector": "Technology",
         "change": 1.369574378423933,
@@ -4442,7 +4511,7 @@
         "symbol": "FSLR",
         "name": "First Solar, Inc.",
         "price": 243.21,
-        "forwardPE": 8.498551,
+        "forwardPE": 8.3632765,
         "roe": 16.864,
         "sector": "Technology",
         "change": 0.43774519925666,
@@ -5983,7 +6052,7 @@
         "symbol": "KDP",
         "name": "Keurig Dr Pepper Inc.",
         "price": 31.03,
-        "forwardPE": 12.870712,
+        "forwardPE": 12.934665,
         "roe": 8.356,
         "sector": "Consumer Defensive",
         "change": 4.232448773933496,
@@ -11342,7 +11411,7 @@
         "symbol": "XOM",
         "name": "Exxon Mobil Corporation",
         "price": 149.26,
-        "forwardPE": 17.903751,
+        "forwardPE": 17.875792,
         "roe": 11.0810004,
         "sector": "Energy",
         "change": -0.9949588750331653,
