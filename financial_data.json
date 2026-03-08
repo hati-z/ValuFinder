@@ -2426,8 +2426,8 @@
         "dividendYield": 0,
         "revenueGrowth": 6.2,
         "debtToEquity": 33.201,
-        "freeCashflow": null,
-        "priceToBook": 1.8002447,
+        "freeCashflow": 367087488,
+        "priceToBook": 1.7856727,
         "moat": {
             "brandLoyalty": 9.5,
             "barriersToEntry": 5.5,
@@ -11074,8 +11074,8 @@
         "dividendYield": 0,
         "revenueGrowth": 14.499999999999998,
         "debtToEquity": 48.956,
-        "freeCashflow": 3084000000,
-        "priceToBook": 5.056071,
+        "freeCashflow": 3012750080,
+        "priceToBook": 5.014608,
         "moat": {
             "brandLoyalty": 4.0,
             "barriersToEntry": 7.0,
