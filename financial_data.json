@@ -69,29 +69,6 @@
         }
     },
     {
-        "symbol": "ABNB",
-        "name": "Airbnb, Inc.",
-        "price": 134.03,
-        "forwardPE": 23.046316,
-        "roe": 30.232999999999997,
-        "sector": "Consumer Cyclical",
-        "change": 0.6004653606545158,
-        "marketCap": 80352862208,
-        "dividendYield": 0,
-        "revenueGrowth": 12.0,
-        "debtToEquity": 27.698,
-        "freeCashflow": 3543000064,
-        "priceToBook": 9.840675,
-        "moat": {
-            "brandLoyalty": 6.4,
-            "barriersToEntry": 9.4,
-            "switchingCost": 9.7,
-            "networkEffect": 3.2,
-            "economiesOfScale": 6.6,
-            "overall": 7.1
-        }
-    },
-    {
         "symbol": "ABT",
         "name": "Abbott Laboratories",
         "price": 112.65,
@@ -687,29 +664,6 @@
             "networkEffect": 5.9,
             "economiesOfScale": 6.0,
             "overall": 6.0
-        }
-    },
-    {
-        "symbol": "AMT",
-        "name": "American Tower Corporation (REI",
-        "price": 186.64,
-        "forwardPE": 27.01623,
-        "roe": 26.279999999999998,
-        "sector": "Real Estate",
-        "change": -1.0339890768333513,
-        "marketCap": 87374888960,
-        "dividendYield": 365.0,
-        "revenueGrowth": 7.5,
-        "debtToEquity": 434.211,
-        "freeCashflow": 4508987392,
-        "priceToBook": 23.827396,
-        "moat": {
-            "brandLoyalty": 9.9,
-            "barriersToEntry": 8.8,
-            "switchingCost": 6.2,
-            "networkEffect": 3.5,
-            "economiesOfScale": 7.1,
-            "overall": 7.1
         }
     },
     {
@@ -4695,7 +4649,7 @@
         "symbol": "GEV",
         "name": "GE Vernova Inc.",
         "price": 830.1,
-        "forwardPE": 36.729,
+        "forwardPE": 36.50301,
         "roe": 42.641,
         "sector": "Industrials",
         "change": 5.178465086223281,
