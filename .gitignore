@@ -14,3 +14,6 @@ Thumbs.db
 
 # Project-specific ignores
 *.log
+
+# IDE
+.vscode/
