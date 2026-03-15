@@ -11316,6 +11316,29 @@
         }
     },
     {
+        "symbol": "WTW",
+        "name": "Willis Towers Watson Public Lim",
+        "price": 289.54,
+        "forwardPE": 12.915515,
+        "roe": 20.076,
+        "sector": "Financial Services",
+        "change": 1.0152461361337002,
+        "marketCap": 27723055104,
+        "dividendYield": 133.0,
+        "revenueGrowth": -3.3000000000000003,
+        "debtToEquity": 85.755,
+        "freeCashflow": 1919374976,
+        "priceToBook": 3.4515479,
+        "moat": {
+            "brandLoyalty": 9.9,
+            "barriersToEntry": 8.6,
+            "switchingCost": 3.7,
+            "networkEffect": 1.8,
+            "economiesOfScale": 8.7,
+            "overall": 6.5
+        }
+    },
+    {
         "symbol": "WY",
         "name": "Weyerhaeuser Company",
         "price": 23.46,
