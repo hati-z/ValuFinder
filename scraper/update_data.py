@@ -193,7 +193,7 @@ def main():
                     "sector": info.get("sector", "Unknown"),
                     "change": ((price) - (info.get("previousClose", 0) or 0)) / (info.get("previousClose", 1) or 1) * 100,
                     "marketCap": info.get("marketCap"),
-                    "dividendYield": (info.get("dividendYield", 0) or 0) * 100,
+                    "dividendYield": info.get("dividendYield", 0) or 0,
                     "revenueGrowth": (info.get("revenueGrowth", 0) or 0) * 100,
                     "debtToEquity": info.get("debtToEquity"),
                     "freeCashflow": info.get("freeCashflow"),
