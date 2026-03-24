@@ -57,7 +57,7 @@ def update_moat_cache(symbols):
         print("GEMINI_API_KEY not found. Using math generator fallback.")
         return {s: generate_moat_scores(s) for s in symbols}
         
-    client = genai.Client()
+    client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
     all_moats = {}
     batch_size = 50
     
@@ -69,15 +69,18 @@ def update_moat_cache(symbols):
         try:
             print(f"Fetching Gemini evaluations for batch {i//batch_size + 1}...")
             prompt = f"""
-            You are an expert equity analyst. For the following list of stock ticker symbols, 
-            provide an evaluation of their economic moat characteristics.
-            Score each characteristic from 0.0 to 10.0 (where 10.0 is the strongest).
+            You are an expert equity analyst following Warren Buffett's strict value investing methodology.
+            For the following list of stock ticker symbols, provide an evaluation of their "economic moat" 
+            (durable competitive advantages that protect long-term profits and market share).
+            Strictly analyze these companies as if you are Warren Buffett looking for wonderful companies with enduring competitive advantages.
+            Score each characteristic from 0.0 to 10.0 (where 10.0 is the strongest and most durable).
+            
             Characteristics to score:
-            1. brandLoyalty (Brand loyalty and pricing power)
-            2. barriersToEntry (High barriers to entry)
-            3. switchingCost (High customer switch cost)
-            4. networkEffect (Network effect)
-            5. economiesOfScale (Economics of scale)
+            1. brandLoyalty (Intangible assets: strong brand value, patents, regulatory licenses, and immense pricing power)
+            2. barriersToEntry (High barriers to entry: high capital requirements or monopolistic characteristics)
+            3. switchingCost (High customer switching costs: deeply embedded in customer routines or business processes)
+            4. networkEffect (Network effect: the product/service becomes more valuable as more people use it)
+            5. economiesOfScale (Cost advantages: structural scale allowing the company to be a relentless low-cost producer)
 
             Return ONLY a valid JSON object mapping each symbol to its 5 scores.
             Example format:
