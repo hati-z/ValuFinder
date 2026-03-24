@@ -782,6 +782,29 @@
         }
     },
     {
+        "symbol": "AOS",
+        "name": "A.O. Smith Corporation",
+        "price": 65.07,
+        "forwardPE": 14.978868,
+        "roe": 29.197,
+        "sector": "Industrials",
+        "change": 1.529099703541878,
+        "marketCap": 8998524928,
+        "dividendYield": 2.15,
+        "revenueGrowth": 0,
+        "debtToEquity": 10.974,
+        "freeCashflow": 426162496,
+        "priceToBook": 4.851987,
+        "moat": {
+            "brandLoyalty": 7.5,
+            "barriersToEntry": 6.5,
+            "switchingCost": 5.5,
+            "networkEffect": 1.0,
+            "economiesOfScale": 7.5,
+            "overall": 5.6
+        }
+    },
+    {
         "symbol": "APA",
         "name": "APA Corporation",
         "price": 39.03,
@@ -8356,7 +8379,7 @@
         "roe": 31.562,
         "sector": "Consumer Defensive",
         "change": -0.20099805932907683,
-        "marketCap": 336466247680,
+        "marketCap": 337006493696,
         "dividendYield": 2.94,
         "revenueGrowth": 1.5,
         "debtToEquity": 68.719,
@@ -10863,7 +10886,7 @@
         "roe": 22.541,
         "sector": "Healthcare",
         "change": -0.6276357950603887,
-        "marketCap": 114629115904,
+        "marketCap": 114613690368,
         "dividendYield": 0,
         "revenueGrowth": 9.5,
         "debtToEquity": 10.908,
