@@ -61,8 +61,8 @@ def update_moat_cache(symbols):
     all_moats = {}
     batch_size = 50
     
-    # Try the requested 3.1 pro model
-    target_model = 'gemini-3.1-pro'
+    # Use the requested 3.1 pro model
+    target_model = 'gemini-3.1-pro-preview'
     
     for i in range(0, len(symbols), batch_size):
         batch = symbols[i:i+batch_size]
@@ -100,7 +100,8 @@ def update_moat_cache(symbols):
             )
             res_json = json.loads(response.text)
             all_moats.update(res_json)
-            time.sleep(1) # Be nice to rate limits
+            print(f"Batch {i//batch_size + 1} generated successfully!")
+            time.sleep(3) # Wait 3 seconds to strictly respect the 15 Requests Per Minute free tier limit
         except Exception as e:
             print(f"Error on batch: {e}. Falling back to deterministic math scoring for this batch.")
             for sym in batch:
