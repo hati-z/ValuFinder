@@ -1159,7 +1159,7 @@
         "change": -0.22068208657893967,
         "marketCap": 55269933056,
         "dividendYield": 0,
-        "revenueGrowth": 0,
+        "revenueGrowth": 8.200000000000001,
         "debtToEquity": null,
         "freeCashflow": 1150775424,
         "priceToBook": -19.001171,
@@ -2389,6 +2389,29 @@
             "networkEffect": 6.0,
             "economiesOfScale": 8.5,
             "overall": 7.2
+        }
+    },
+    {
+        "symbol": "COHR",
+        "name": "Coherent Corp.",
+        "price": 272.33,
+        "forwardPE": 36.681343,
+        "roe": 3.2360002,
+        "sector": "Technology",
+        "change": 6.775142128994303,
+        "marketCap": 51056930816,
+        "dividendYield": 0,
+        "revenueGrowth": 17.5,
+        "debtToEquity": 39.901,
+        "freeCashflow": 130363752,
+        "priceToBook": 5.97713,
+        "moat": {
+            "brandLoyalty": 5.8,
+            "barriersToEntry": 9.0,
+            "switchingCost": 7.7,
+            "networkEffect": 1.4,
+            "economiesOfScale": 5.3,
+            "overall": 5.8
         }
     },
     {
@@ -6486,6 +6509,29 @@
         }
     },
     {
+        "symbol": "LITE",
+        "name": "Lumentum Holdings Inc.",
+        "price": 801.99,
+        "forwardPE": 53.53288,
+        "roe": 29.275000000000002,
+        "sector": "Technology",
+        "change": 10.019891624939977,
+        "marketCap": 57262084096,
+        "dividendYield": 0,
+        "revenueGrowth": 65.5,
+        "debtToEquity": 392.476,
+        "freeCashflow": -21325000,
+        "priceToBook": 67.63852,
+        "moat": {
+            "brandLoyalty": 5.5,
+            "barriersToEntry": 4.6,
+            "switchingCost": 7.8,
+            "networkEffect": 7.3,
+            "economiesOfScale": 7.5,
+            "overall": 6.5
+        }
+    },
+    {
         "symbol": "LLY",
         "name": "Eli Lilly and Company",
         "price": 903.02,
@@ -6670,29 +6716,6 @@
         }
     },
     {
-        "symbol": "LW",
-        "name": "Lamb Weston Holdings, Inc.",
-        "price": 41.49,
-        "forwardPE": 13.608188,
-        "roe": 23.164,
-        "sector": "Consumer Defensive",
-        "change": 1.5170051382432215,
-        "marketCap": 5781734400,
-        "dividendYield": 3.72,
-        "revenueGrowth": 1.0999999999999999,
-        "debtToEquity": 224.846,
-        "freeCashflow": 614587520,
-        "priceToBook": 3.2842555,
-        "moat": {
-            "brandLoyalty": 7.0,
-            "barriersToEntry": 8.0,
-            "switchingCost": 7.5,
-            "networkEffect": 4.0,
-            "economiesOfScale": 8.5,
-            "overall": 7.0
-        }
-    },
-    {
         "symbol": "LYB",
         "name": "LyondellBasell Industries NV",
         "price": 76.01,
@@ -6857,7 +6880,7 @@
         "symbol": "MCHP",
         "name": "Microchip Technology Incorporat",
         "price": 65.63,
-        "forwardPE": 24.708136,
+        "forwardPE": 24.667274,
         "roe": -1.0930001,
         "sector": "Technology",
         "change": 2.004973577867566,
@@ -7153,29 +7176,6 @@
         }
     },
     {
-        "symbol": "MOH",
-        "name": "Molina Healthcare Inc",
-        "price": 141.74,
-        "forwardPE": 16.36101,
-        "roe": 11.022,
-        "sector": "Healthcare",
-        "change": 4.8062703342206445,
-        "marketCap": 7299610112,
-        "dividendYield": 0,
-        "revenueGrowth": 7.1,
-        "debtToEquity": 99.435,
-        "freeCashflow": -100000000,
-        "priceToBook": 1.7765468,
-        "moat": {
-            "brandLoyalty": 5.0,
-            "barriersToEntry": 7.5,
-            "switchingCost": 6.0,
-            "networkEffect": 0.0,
-            "economiesOfScale": 7.5,
-            "overall": 5.2
-        }
-    },
-    {
         "symbol": "MOS",
         "name": "Mosaic Company (The)",
         "price": 25.2,
@@ -7426,29 +7426,6 @@
             "networkEffect": 5.0,
             "economiesOfScale": 7.5,
             "overall": 6.9
-        }
-    },
-    {
-        "symbol": "MTCH",
-        "name": "Match Group, Inc.",
-        "price": 30.39,
-        "forwardPE": 7.54025,
-        "roe": 0,
-        "sector": "Communication Services",
-        "change": -2.5961538461538423,
-        "marketCap": 7174173184,
-        "dividendYield": 2.47,
-        "revenueGrowth": 2.1,
-        "debtToEquity": null,
-        "freeCashflow": 873889920,
-        "priceToBook": -27.880732,
-        "moat": {
-            "brandLoyalty": 7.5,
-            "barriersToEntry": 4.0,
-            "switchingCost": 2.0,
-            "networkEffect": 8.0,
-            "economiesOfScale": 7.0,
-            "overall": 5.7
         }
     },
     {
@@ -7896,7 +7873,7 @@
         "roe": 6.329,
         "sector": "Communication Services",
         "change": -0.9839650145772578,
-        "marketCap": 14970426368,
+        "marketCap": 14966893568,
         "dividendYield": 0.73,
         "revenueGrowth": 5.5,
         "debtToEquity": 30.892,
@@ -7919,7 +7896,7 @@
         "roe": 6.329,
         "sector": "Communication Services",
         "change": -1.195383347073383,
-        "marketCap": 13822307328,
+        "marketCap": 13787065344,
         "dividendYield": 0.82,
         "revenueGrowth": 5.5,
         "debtToEquity": 30.892,
@@ -8185,29 +8162,6 @@
             "networkEffect": 7.5,
             "economiesOfScale": 8.0,
             "overall": 7.9
-        }
-    },
-    {
-        "symbol": "PAYC",
-        "name": "Paycom Software, Inc.",
-        "price": 118.96,
-        "forwardPE": 10.413174,
-        "roe": 27.417,
-        "sector": "Technology",
-        "change": -6.0273323327277115,
-        "marketCap": 6531632128,
-        "dividendYield": 1.18,
-        "revenueGrowth": 10.2,
-        "debtToEquity": 5.215,
-        "freeCashflow": 260975008,
-        "priceToBook": 3.6756892,
-        "moat": {
-            "brandLoyalty": 7.0,
-            "barriersToEntry": 6.5,
-            "switchingCost": 8.0,
-            "networkEffect": 3.5,
-            "economiesOfScale": 7.5,
-            "overall": 6.5
         }
     },
     {
@@ -9246,6 +9200,29 @@
         }
     },
     {
+        "symbol": "SATS",
+        "name": "EchoStar Corporation",
+        "price": 110.84,
+        "forwardPE": -75.44447,
+        "roe": -111.347,
+        "sector": "Communication Services",
+        "change": 1.2329893140926191,
+        "marketCap": 32019001344,
+        "dividendYield": 0,
+        "revenueGrowth": -4.3,
+        "debtToEquity": 532.734,
+        "freeCashflow": -791787008,
+        "priceToBook": 5.552272,
+        "moat": {
+            "brandLoyalty": 6.5,
+            "barriersToEntry": 9.9,
+            "switchingCost": 8.5,
+            "networkEffect": 3.4,
+            "economiesOfScale": 6.5,
+            "overall": 7.0
+        }
+    },
+    {
         "symbol": "SBAC",
         "name": "SBA Communications Corporation",
         "price": 166.76,
@@ -10008,7 +9985,7 @@
         "symbol": "TFC",
         "name": "Truist Financial Corporation",
         "price": 45.32,
-        "forwardPE": 8.865397,
+        "forwardPE": 8.872878,
         "roe": 8.236,
         "sector": "Financial Services",
         "change": 1.0254123941150264,
@@ -10876,6 +10853,29 @@
             "networkEffect": 7.0,
             "economiesOfScale": 9.5,
             "overall": 8.7
+        }
+    },
+    {
+        "symbol": "VRT",
+        "name": "Vertiv Holdings, LLC",
+        "price": 270.89,
+        "forwardPE": 33.905415,
+        "roe": 41.809000000000005,
+        "sector": "Industrials",
+        "change": 5.816406249999995,
+        "marketCap": 103642103808,
+        "dividendYield": 0.1,
+        "revenueGrowth": 22.7,
+        "debtToEquity": 81.899,
+        "freeCashflow": 1428925056,
+        "priceToBook": 26.292343,
+        "moat": {
+            "brandLoyalty": 6.4,
+            "barriersToEntry": 9.9,
+            "switchingCost": 3.8,
+            "networkEffect": 7.7,
+            "economiesOfScale": 7.8,
+            "overall": 7.1
         }
     },
     {
