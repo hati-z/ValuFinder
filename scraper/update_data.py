@@ -14,8 +14,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-MOAT_CACHE_FILE = 'moat_data.csv'
-FINANCIAL_CACHE_FILE = '../financial_data.json'
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+MOAT_CACHE_FILE = os.path.join(SCRIPT_DIR, 'moat_data.csv')
+FINANCIAL_CACHE_FILE = os.path.join(SCRIPT_DIR, '../financial_data.json')
 
 def load_financial_cache():
     return None
@@ -187,12 +188,14 @@ def main():
                 # Verify key metrics exist so we don't crash the frontend
                 price = info.get("currentPrice", 0.0) or 0.0
                 pe = info.get("forwardPE", 0.0) or 0.0
+                peg = info.get("pegRatio", 0.0) or 0.0
                 
                 return {
                     "symbol": symbol,
                     "name": info.get("shortName", symbol) or symbol,
                     "price": price,
                     "forwardPE": pe,
+                    "pegRatio": peg,
                     "roe": (info.get("returnOnEquity", 0) or 0) * 100,
                     "sector": info.get("sector", "Unknown"),
                     "change": ((price) - (info.get("previousClose", 0) or 0)) / (info.get("previousClose", 1) or 1) * 100,

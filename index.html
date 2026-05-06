@@ -68,6 +68,19 @@
                         <span>100+</span>
                     </div>
                 </div>
+
+                <div class="filter-group mt-6">
+                    <div class="slider-header">
+                        <label class="filter-label" for="peg-slider">Max PEG Ratio</label>
+                        <span id="peg-value-display" class="value-display">5.0</span>
+                    </div>
+                    <input type="range" id="peg-slider" min="0" max="10" step="0.1" value="5.0"
+                        class="premium-slider">
+                    <div class="slider-labels">
+                        <span>0.0</span>
+                        <span>10.0+</span>
+                    </div>
+                </div>
             </div>
 
             <div class="sidebar-footer">
@@ -88,6 +101,7 @@
                     <span class="sort-label">Sort by:</span>
                     <button class="sort-btn active" data-sort="pe">Valuation (P/E) <i
                             class="ph ph-sort-descending"></i></button>
+                    <button class="sort-btn" data-sort="peg">PEG Ratio <i class="ph ph-sort-descending"></i></button>
                     <button class="sort-btn" data-sort="moat">Moat Score <i class="ph ph-sort-ascending"></i></button>
                     <button class="sort-btn" data-sort="name">Name <i class="ph ph-sort-descending"></i></button>
                 </div>

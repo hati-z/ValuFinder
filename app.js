@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let state = {
         roeFilter: 'Exceptional', // Default to Exceptional ROE
         maxPEFilter: 35.0,
+        maxPEGFilter: 5.0,
         minMoatFilter: 0.0, // Default to no moat filtering
         searchQuery: '',
         sortBy: 'pe', // 'pe', 'name', or 'moat'
@@ -20,6 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
         roeFilter: document.getElementById('roe-filter'),
         peSlider: document.getElementById('pe-slider'),
         peDisplay: document.getElementById('pe-value-display'),
+        pegSlider: document.getElementById('peg-slider'),
+        pegDisplay: document.getElementById('peg-value-display'),
         moatSlider: document.getElementById('moat-slider'),
         moatDisplay: document.getElementById('moat-value-display'),
         searchInput: document.getElementById('search-input'),
@@ -41,6 +44,8 @@ document.addEventListener('DOMContentLoaded', () => {
             // Initial render based on default state
             elements.peSlider.value = state.maxPEFilter;
             elements.peDisplay.textContent = state.maxPEFilter >= 100 ? '100+' : state.maxPEFilter.toFixed(1);
+            elements.pegSlider.value = state.maxPEGFilter;
+            elements.pegDisplay.textContent = state.maxPEGFilter >= 10 ? '10.0+' : state.maxPEGFilter.toFixed(1);
             elements.moatSlider.value = state.minMoatFilter;
             elements.moatDisplay.textContent = state.minMoatFilter.toFixed(1);
             elements.roeFilter.value = state.roeFilter;
@@ -70,6 +75,14 @@ document.addEventListener('DOMContentLoaded', () => {
             const val = parseFloat(e.target.value);
             state.maxPEFilter = val;
             elements.peDisplay.textContent = val >= 100 ? '100+' : val.toFixed(1);
+            renderStocks();
+        });
+
+        // PEG Slider
+        elements.pegSlider.addEventListener('input', (e) => {
+            const val = parseFloat(e.target.value);
+            state.maxPEGFilter = val;
+            elements.pegDisplay.textContent = val >= 10 ? '10.0+' : val.toFixed(1);
             renderStocks();
         });
 
@@ -128,6 +141,7 @@ document.addEventListener('DOMContentLoaded', () => {
             state = {
                 roeFilter: 'Exceptional',
                 maxPEFilter: 35.0, // Default to a slightly higher P/E on reset so they see some results
+                maxPEGFilter: 5.0,
                 minMoatFilter: 0.0,
                 searchQuery: '',
                 sortBy: 'pe',
@@ -138,6 +152,8 @@ document.addEventListener('DOMContentLoaded', () => {
             elements.roeFilter.value = state.roeFilter;
             elements.peSlider.value = state.maxPEFilter;
             elements.peDisplay.textContent = state.maxPEFilter >= 100 ? '100+' : state.maxPEFilter.toFixed(1);
+            elements.pegSlider.value = state.maxPEGFilter;
+            elements.pegDisplay.textContent = state.maxPEGFilter >= 10 ? '10.0+' : state.maxPEGFilter.toFixed(1);
             elements.moatSlider.value = state.minMoatFilter;
             elements.moatDisplay.textContent = state.minMoatFilter.toFixed(1);
             elements.searchInput.value = '';
@@ -159,11 +175,12 @@ document.addEventListener('DOMContentLoaded', () => {
             else if (state.roeFilter === 'all') roeMatch = true;
 
             const peMatch = state.maxPEFilter >= 100 ? stock.forwardPE > 0 : (stock.forwardPE > 0 && stock.forwardPE <= state.maxPEFilter);
+            const pegMatch = state.maxPEGFilter >= 10 ? true : (stock.pegRatio > 0 && stock.pegRatio <= state.maxPEGFilter);
             const moatMatch = stock.moat ? stock.moat.overall >= state.minMoatFilter : true;
             const searchMatch = state.searchQuery === '' ? true :
                 (stock.symbol.toLowerCase().includes(state.searchQuery) || stock.name.toLowerCase().includes(state.searchQuery));
 
-            return roeMatch && peMatch && moatMatch && searchMatch;
+            return roeMatch && peMatch && pegMatch && moatMatch && searchMatch;
         });
 
         // Sort
@@ -173,6 +190,9 @@ document.addEventListener('DOMContentLoaded', () => {
             if (state.sortBy === 'pe') {
                 valA = a.forwardPE > 0 ? a.forwardPE : 9999;
                 valB = b.forwardPE > 0 ? b.forwardPE : 9999;
+            } else if (state.sortBy === 'peg') {
+                valA = a.pegRatio > 0 ? a.pegRatio : 9999;
+                valB = b.pegRatio > 0 ? b.pegRatio : 9999;
             } else if (state.sortBy === 'name') {
                 valA = a.name.toLowerCase();
                 valB = b.name.toLowerCase();
@@ -251,6 +271,10 @@ document.addEventListener('DOMContentLoaded', () => {
                         <div class="metric-box">
                             <div class="metric-label">Forward P/E</div>
                             <div class="metric-value pe-value ${peClass}">${stock.forwardPE.toFixed(1)}</div>
+                        </div>
+                        <div class="metric-box">
+                            <div class="metric-label">PEG Ratio</div>
+                            <div class="metric-value pe-value ${stock.pegRatio < 1 ? 'great-value' : (stock.pegRatio > 2 ? 'expensive' : '')}">${stock.pegRatio ? stock.pegRatio.toFixed(2) : 'N/A'}</div>
                         </div>
                         <div class="metric-box">
                             <div class="metric-label">Sector</div>
