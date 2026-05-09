@@ -10549,7 +10549,7 @@
         "revenueGrowth": 20.8,
         "debtToEquity": 1.173,
         "freeCashflow": -56315624,
-        "priceToBook": 18.62685,
+        "priceToBook": 17.474953,
         "moat": {
             "brandLoyalty": 5.0,
             "barriersToEntry": 9.5,
@@ -11907,7 +11907,7 @@
         "symbol": "XOM",
         "name": "Exxon Mobil Corporation",
         "price": 144.57,
-        "forwardPE": 14.185895,
+        "forwardPE": 14.150599,
         "pegRatio": 1.32,
         "roe": 9.873,
         "sector": "Energy",
