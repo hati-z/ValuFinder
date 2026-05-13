@@ -1117,7 +1117,7 @@
         "revenueGrowth": 7.000000000000001,
         "debtToEquity": 164.751,
         "freeCashflow": 809049984,
-        "priceToBook": 5.4897995,
+        "priceToBook": 5.3355775,
         "moat": {
             "brandLoyalty": 6.5,
             "barriersToEntry": 7.0,
@@ -2643,7 +2643,7 @@
         "symbol": "COST",
         "name": "Costco Wholesale Corporation",
         "price": 1021.88,
-        "forwardPE": 45.44066,
+        "forwardPE": 45.385967,
         "pegRatio": 5.12,
         "roe": 29.650998,
         "sector": "Consumer Defensive",
@@ -2749,7 +2749,7 @@
         "revenueGrowth": -0.5,
         "debtToEquity": 104.147,
         "freeCashflow": 688079616,
-        "priceToBook": 2.715683,
+        "priceToBook": 2.565647,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 7.5,
@@ -2797,7 +2797,7 @@
         "revenueGrowth": 1.2,
         "debtToEquity": 102.551,
         "freeCashflow": 510023744,
-        "priceToBook": 2.6234837,
+        "priceToBook": 2.763145,
         "moat": {
             "brandLoyalty": 7.5,
             "barriersToEntry": 8.0,
@@ -3133,7 +3133,7 @@
         "revenueGrowth": 33.1,
         "debtToEquity": 32.194,
         "freeCashflow": 2295624960,
-        "priceToBook": 6.6343193,
+        "priceToBook": 6.7170186,
         "moat": {
             "brandLoyalty": 7.0,
             "barriersToEntry": 4.0,
@@ -4405,7 +4405,7 @@
         "revenueGrowth": 12.4,
         "debtToEquity": 11.167,
         "freeCashflow": 903862528,
-        "priceToBook": 12.4661875,
+        "priceToBook": 12.611354,
         "moat": {
             "brandLoyalty": 7.5,
             "barriersToEntry": 6.0,
@@ -4741,7 +4741,7 @@
         "revenueGrowth": 23.599999999999998,
         "debtToEquity": 5.943,
         "freeCashflow": 1147664768,
-        "priceToBook": 2.4806926,
+        "priceToBook": 2.5658448,
         "moat": {
             "brandLoyalty": 7.0,
             "barriersToEntry": 8.0,
@@ -6517,7 +6517,7 @@
         "revenueGrowth": 13.8,
         "debtToEquity": 98.84,
         "freeCashflow": 1646875008,
-        "priceToBook": 2.304851,
+        "priceToBook": 2.3051789,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 9.5,
@@ -8173,7 +8173,7 @@
         "revenueGrowth": -21.4,
         "debtToEquity": 31.22,
         "freeCashflow": 1250691712,
-        "priceToBook": 4.531364,
+        "priceToBook": 4.197889,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 6.0,
@@ -8893,7 +8893,7 @@
         "revenueGrowth": 2.6,
         "debtToEquity": 54.634,
         "freeCashflow": 574212480,
-        "priceToBook": 3.192094,
+        "priceToBook": 3.1751258,
         "moat": {
             "brandLoyalty": 7.0,
             "barriersToEntry": 6.5,
@@ -9325,7 +9325,7 @@
         "revenueGrowth": 7.3,
         "debtToEquity": null,
         "freeCashflow": null,
-        "priceToBook": 1.3317963,
+        "priceToBook": 1.3318616,
         "moat": {
             "brandLoyalty": 6.5,
             "barriersToEntry": 7.0,
@@ -10467,7 +10467,7 @@
         "symbol": "TKO",
         "name": "TKO Group Holdings, Inc.",
         "price": 183.33,
-        "forwardPE": 47.702934,
+        "forwardPE": 47.642807,
         "pegRatio": 1.32,
         "roe": 6.736000000000001,
         "sector": "Communication Services",
@@ -10573,7 +10573,7 @@
         "revenueGrowth": 21.2,
         "debtToEquity": 574.912,
         "freeCashflow": 1529737472,
-        "priceToBook": 39.054253,
+        "priceToBook": 48.447956,
         "moat": {
             "brandLoyalty": 7.5,
             "barriersToEntry": 5.0,
@@ -10909,7 +10909,7 @@
         "revenueGrowth": 10.6,
         "debtToEquity": 195.081,
         "freeCashflow": 1647000064,
-        "priceToBook": 1.9728281,
+        "priceToBook": 1.9595574,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 8.0,
@@ -11139,7 +11139,7 @@
         "symbol": "V",
         "name": "Visa Inc.",
         "price": 326.42,
-        "forwardPE": 22.004307,
+        "forwardPE": 21.99455,
         "pegRatio": 1.67,
         "roe": 60.349,
         "sector": "Financial Services",
