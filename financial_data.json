@@ -3195,7 +3195,7 @@
         "symbol": "DE",
         "name": "Deere & Company",
         "price": 529.15,
-        "forwardPE": 22.99067,
+        "forwardPE": 23.129763,
         "pegRatio": 1.6,
         "roe": 18.349001,
         "sector": "Industrials",
@@ -5053,7 +5053,7 @@
         "revenueGrowth": -0.8999999999999999,
         "debtToEquity": 199.048,
         "freeCashflow": 22466625536,
-        "priceToBook": 1.1455365,
+        "priceToBook": 1.1342076,
         "moat": {
             "brandLoyalty": 6.5,
             "barriersToEntry": 7.5,
@@ -7789,7 +7789,7 @@
         "revenueGrowth": 9.6,
         "debtToEquity": 661.444,
         "freeCashflow": -1500744960,
-        "priceToBook": 3.3580549,
+        "priceToBook": 3.0777943,
         "moat": {
             "brandLoyalty": 6.5,
             "barriersToEntry": 8.0,
@@ -9013,7 +9013,7 @@
         "revenueGrowth": 10.8,
         "debtToEquity": 135.116,
         "freeCashflow": -1615124992,
-        "priceToBook": 1.8330474,
+        "priceToBook": 1.8190014,
         "moat": {
             "brandLoyalty": 4.0,
             "barriersToEntry": 9.0,
@@ -9037,7 +9037,7 @@
         "revenueGrowth": 15.299999999999999,
         "debtToEquity": 158.972,
         "freeCashflow": 10378999808,
-        "priceToBook": 1.1168319,
+        "priceToBook": 1.1309893,
         "moat": {
             "brandLoyalty": 8.0,
             "barriersToEntry": 7.5,
@@ -9483,7 +9483,7 @@
         "symbol": "ROST",
         "name": "Ross Stores, Inc.",
         "price": 234.81,
-        "forwardPE": 28.631943,
+        "forwardPE": 27.41525,
         "pegRatio": 3.41,
         "roe": 38.981998000000004,
         "sector": "Consumer Cyclical",
