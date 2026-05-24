@@ -2749,7 +2749,7 @@
         "revenueGrowth": -0.5,
         "debtToEquity": 104.147,
         "freeCashflow": 688079616,
-        "priceToBook": 2.620261,
+        "priceToBook": 2.773491,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 7.5,
@@ -4299,7 +4299,7 @@
         "symbol": "EXPE",
         "name": "Expedia Group, Inc.",
         "price": 214.65,
-        "forwardPE": 9.297291,
+        "forwardPE": 9.293125,
         "pegRatio": 0.7,
         "roe": 71.494,
         "sector": "Consumer Cyclical",
@@ -4731,7 +4731,7 @@
         "symbol": "FSLR",
         "name": "First Solar, Inc.",
         "price": 257.85,
-        "forwardPE": 11.019127,
+        "forwardPE": 10.99155,
         "pegRatio": 0.68,
         "roe": 18.436000999999997,
         "sector": "Technology",
@@ -5989,7 +5989,7 @@
         "revenueGrowth": 8.4,
         "debtToEquity": 255.426,
         "freeCashflow": 2156750080,
-        "priceToBook": 4.3788958,
+        "priceToBook": 4.5044804,
         "moat": {
             "brandLoyalty": 7.5,
             "barriersToEntry": 8.5,
@@ -6109,7 +6109,7 @@
         "revenueGrowth": 4.6,
         "debtToEquity": 283.22,
         "freeCashflow": 2215749888,
-        "priceToBook": 22.47171,
+        "priceToBook": 22.568232,
         "moat": {
             "brandLoyalty": 8.0,
             "barriersToEntry": 7.5,
@@ -6339,7 +6339,7 @@
         "symbol": "KEY",
         "name": "KeyCorp",
         "price": 21.56,
-        "forwardPE": 10.024876,
+        "forwardPE": 9.999582,
         "pegRatio": 2.04,
         "roe": 9.977,
         "sector": "Financial Services",
@@ -6421,7 +6421,7 @@
         "revenueGrowth": 4.0,
         "debtToEquity": 78.788,
         "freeCashflow": 838712128,
-        "priceToBook": 1.5639595,
+        "priceToBook": 1.5650764,
         "moat": {
             "brandLoyalty": 5.5,
             "barriersToEntry": 7.0,
@@ -7501,7 +7501,7 @@
         "revenueGrowth": 8.799999999999999,
         "debtToEquity": 146.523,
         "freeCashflow": 3518749952,
-        "priceToBook": 4.3387513,
+        "priceToBook": 4.453714,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 9.5,
@@ -8893,7 +8893,7 @@
         "revenueGrowth": 2.6,
         "debtToEquity": 54.634,
         "freeCashflow": 574212480,
-        "priceToBook": 3.1565626,
+        "priceToBook": 3.1734319,
         "moat": {
             "brandLoyalty": 7.0,
             "barriersToEntry": 6.5,
@@ -9133,7 +9133,7 @@
         "revenueGrowth": 21.7,
         "debtToEquity": 35.78,
         "freeCashflow": 986047232,
-        "priceToBook": 4.4355006,
+        "priceToBook": 4.586466,
         "moat": {
             "brandLoyalty": 7.5,
             "barriersToEntry": 7.5,
@@ -9325,7 +9325,7 @@
         "revenueGrowth": 7.3,
         "debtToEquity": null,
         "freeCashflow": null,
-        "priceToBook": 1.3652195,
+        "priceToBook": 1.3651526,
         "moat": {
             "brandLoyalty": 6.5,
             "barriersToEntry": 7.0,
@@ -9397,7 +9397,7 @@
         "revenueGrowth": 10.8,
         "debtToEquity": 12.988,
         "freeCashflow": 1446655104,
-        "priceToBook": 4.7944417,
+        "priceToBook": 4.648227,
         "moat": {
             "brandLoyalty": 8.5,
             "barriersToEntry": 8.0,
@@ -10909,7 +10909,7 @@
         "revenueGrowth": 10.6,
         "debtToEquity": 195.081,
         "freeCashflow": 1647000064,
-        "priceToBook": 2.0437956,
+        "priceToBook": 2.0576367,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 8.0,
@@ -10957,7 +10957,7 @@
         "revenueGrowth": 4.2,
         "debtToEquity": 142.368,
         "freeCashflow": 1007130496,
-        "priceToBook": 3.8201003,
+        "priceToBook": 3.844831,
         "moat": {
             "brandLoyalty": 4.0,
             "barriersToEntry": 6.0,
