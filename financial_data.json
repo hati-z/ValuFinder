@@ -216,30 +216,6 @@
         }
     },
     {
-        "symbol": "ADM",
-        "name": "Archer-Daniels-Midland Company",
-        "price": 79.55,
-        "forwardPE": 15.322535,
-        "pegRatio": 2.47,
-        "roe": 4.7659997,
-        "sector": "Consumer Defensive",
-        "change": 1.9741058838610333,
-        "marketCap": 38339641344,
-        "dividendYield": 2.67,
-        "revenueGrowth": 1.6,
-        "debtToEquity": 46.128,
-        "freeCashflow": 1578499968,
-        "priceToBook": 1.6814272,
-        "moat": {
-            "brandLoyalty": 6.5,
-            "barriersToEntry": 8.5,
-            "switchingCost": 7.0,
-            "networkEffect": 4.0,
-            "economiesOfScale": 9.0,
-            "overall": 7.0
-        }
-    },
-    {
         "symbol": "ADP",
         "name": "Automatic Data Processing, Inc.",
         "price": 217.65,
@@ -525,30 +501,6 @@
             "networkEffect": 5.0,
             "economiesOfScale": 7.5,
             "overall": 7.3
-        }
-    },
-    {
-        "symbol": "ALL",
-        "name": "Allstate Corporation (The)",
-        "price": 208.85,
-        "forwardPE": 7.967047,
-        "pegRatio": 2.6,
-        "roe": 45.221000000000004,
-        "sector": "Financial Services",
-        "change": -1.8654261817498352,
-        "marketCap": 53762363392,
-        "dividendYield": 2.03,
-        "revenueGrowth": 3.0,
-        "debtToEquity": 23.719,
-        "freeCashflow": 12428999680,
-        "priceToBook": 1.820012,
-        "moat": {
-            "brandLoyalty": 8.0,
-            "barriersToEntry": 6.5,
-            "switchingCost": 6.5,
-            "networkEffect": 2.0,
-            "economiesOfScale": 8.0,
-            "overall": 6.2
         }
     },
     {
@@ -1029,30 +981,6 @@
             "networkEffect": 5.0,
             "economiesOfScale": 8.0,
             "overall": 7.5
-        }
-    },
-    {
-        "symbol": "ATO",
-        "name": "Atmos Energy Corporation",
-        "price": 176.24,
-        "forwardPE": 19.691292,
-        "pegRatio": 2.29,
-        "roe": 9.6,
-        "sector": "Utilities",
-        "change": -0.8327706504613942,
-        "marketCap": 29417951232,
-        "dividendYield": 2.25,
-        "revenueGrowth": 0.6,
-        "debtToEquity": 64.588,
-        "freeCashflow": -2210371840,
-        "priceToBook": 1.9731966,
-        "moat": {
-            "brandLoyalty": 5.0,
-            "barriersToEntry": 9.5,
-            "switchingCost": 8.5,
-            "networkEffect": 2.0,
-            "economiesOfScale": 8.5,
-            "overall": 6.7
         }
     },
     {
@@ -1683,7 +1611,7 @@
         "symbol": "BSX",
         "name": "Boston Scientific Corporation",
         "price": 50.46,
-        "forwardPE": 13.415503,
+        "forwardPE": 13.42264,
         "pegRatio": 0.7,
         "roe": 14.661,
         "sector": "Healthcare",
@@ -4467,7 +4395,7 @@
         "symbol": "FDX",
         "name": "FedEx Corporation",
         "price": 411.78,
-        "forwardPE": 18.37854,
+        "forwardPE": 18.355232,
         "pegRatio": 1.41,
         "roe": 15.869,
         "sector": "Industrials",
@@ -6051,7 +5979,7 @@
         "symbol": "ISRG",
         "name": "Intuitive Surgical, Inc.",
         "price": 418.55,
-        "forwardPE": 35.502712,
+        "forwardPE": 35.50488,
         "pegRatio": 2.29,
         "roe": 17.232999,
         "sector": "Healthcare",
@@ -6840,30 +6768,6 @@
         }
     },
     {
-        "symbol": "LNT",
-        "name": "Alliant Energy Corporation",
-        "price": 73.75,
-        "forwardPE": 20.011232,
-        "pegRatio": 2.56,
-        "roe": 11.3120005,
-        "sector": "Utilities",
-        "change": 0.09500542888164111,
-        "marketCap": 19047931904,
-        "dividendYield": 2.83,
-        "revenueGrowth": 5.0,
-        "debtToEquity": 159.526,
-        "freeCashflow": -1202625024,
-        "priceToBook": 2.5663779,
-        "moat": {
-            "brandLoyalty": 4.0,
-            "barriersToEntry": 9.5,
-            "switchingCost": 8.5,
-            "networkEffect": 2.0,
-            "economiesOfScale": 8.5,
-            "overall": 6.5
-        }
-    },
-    {
         "symbol": "LOW",
         "name": "Lowe's Companies, Inc.",
         "price": 216.84,
@@ -7131,7 +7035,7 @@
         "symbol": "MCD",
         "name": "McDonald's Corporation",
         "price": 280.92,
-        "forwardPE": 19.756067,
+        "forwardPE": 19.754026,
         "pegRatio": 2.56,
         "roe": 0,
         "sector": "Consumer Cyclical",
@@ -10347,7 +10251,7 @@
         "symbol": "TEL",
         "name": "TE Connectivity plc",
         "price": 208.75,
-        "forwardPE": 16.522875,
+        "forwardPE": 16.51924,
         "pegRatio": 1.05,
         "roe": 22.719998999999998,
         "sector": "Technology",
