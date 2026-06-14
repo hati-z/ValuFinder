@@ -1443,7 +1443,7 @@
         "symbol": "BIIB",
         "name": "Biogen Inc.",
         "price": 200.05,
-        "forwardPE": 12.014705,
+        "forwardPE": 11.992155,
         "pegRatio": 3.94,
         "roe": 7.7010006,
         "sector": "Healthcare",
@@ -6651,7 +6651,7 @@
         "symbol": "LEN",
         "name": "Lennar Corporation",
         "price": 90.3,
-        "forwardPE": 12.31376,
+        "forwardPE": 12.246958,
         "pegRatio": 12.28,
         "roe": 7.367999999999999,
         "sector": "Consumer Cyclical",
@@ -11613,6 +11613,30 @@
             "networkEffect": 1.0,
             "economiesOfScale": 8.0,
             "overall": 6.2
+        }
+    },
+    {
+        "symbol": "WELL",
+        "name": "Welltower Inc.",
+        "price": 214.23,
+        "forwardPE": 63.75893,
+        "pegRatio": 3.66,
+        "roe": 3.665,
+        "sector": "Real Estate",
+        "change": 1.6898466796411462,
+        "marketCap": 151228039168,
+        "dividendYield": 1.38,
+        "revenueGrowth": 38.3,
+        "debtToEquity": 44.486,
+        "freeCashflow": 2600212736,
+        "priceToBook": 3.5417528,
+        "moat": {
+            "brandLoyalty": 6.0,
+            "barriersToEntry": 7.0,
+            "switchingCost": 6.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 8.0,
+            "overall": 5.8
         }
     },
     {
