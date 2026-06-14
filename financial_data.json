@@ -9315,7 +9315,7 @@
         "symbol": "RF",
         "name": "Regions Financial Corporation",
         "price": 29.27,
-        "forwardPE": 10.252117,
+        "forwardPE": 10.256644,
         "pegRatio": 1.71,
         "roe": 11.895,
         "sector": "Financial Services",
@@ -11613,30 +11613,6 @@
             "networkEffect": 1.0,
             "economiesOfScale": 8.0,
             "overall": 6.2
-        }
-    },
-    {
-        "symbol": "WELL",
-        "name": "Welltower Inc.",
-        "price": 214.23,
-        "forwardPE": 63.75893,
-        "pegRatio": 3.66,
-        "roe": 3.665,
-        "sector": "Real Estate",
-        "change": 1.6898466796411462,
-        "marketCap": 151228039168,
-        "dividendYield": 1.38,
-        "revenueGrowth": 38.3,
-        "debtToEquity": 44.486,
-        "freeCashflow": 2600212736,
-        "priceToBook": 3.5417528,
-        "moat": {
-            "brandLoyalty": 6.0,
-            "barriersToEntry": 7.0,
-            "switchingCost": 6.0,
-            "networkEffect": 2.0,
-            "economiesOfScale": 8.0,
-            "overall": 5.8
         }
     },
     {
