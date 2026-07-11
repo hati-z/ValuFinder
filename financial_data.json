@@ -2112,6 +2112,30 @@
         }
     },
     {
+        "symbol": "CHD",
+        "name": "Church & Dwight Company, Inc.",
+        "price": 96.36,
+        "forwardPE": 23.630735,
+        "pegRatio": 3.0,
+        "roe": 16.779,
+        "sector": "Consumer Defensive",
+        "change": 0.721229225462525,
+        "marketCap": 22831886336,
+        "dividendYield": 1.29,
+        "revenueGrowth": 0.2,
+        "debtToEquity": 56.794,
+        "freeCashflow": 1128824960,
+        "priceToBook": 5.4530025,
+        "moat": {
+            "brandLoyalty": 8.5,
+            "barriersToEntry": 6.0,
+            "switchingCost": 4.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 7.5,
+            "overall": 5.6
+        }
+    },
+    {
         "symbol": "CHRW",
         "name": "C.H. Robinson Worldwide, Inc.",
         "price": 193.5,
@@ -2640,6 +2664,30 @@
         }
     },
     {
+        "symbol": "CPRT",
+        "name": "Copart, Inc.",
+        "price": 27.515,
+        "forwardPE": 16.349463,
+        "pegRatio": 3.43,
+        "roe": 17.607,
+        "sector": "Industrials",
+        "change": -2.8768090363572107,
+        "marketCap": 25473701888,
+        "dividendYield": 0,
+        "revenueGrowth": 2.1,
+        "debtToEquity": 1.059,
+        "freeCashflow": 999977152,
+        "priceToBook": 2.9033449,
+        "moat": {
+            "brandLoyalty": 7.5,
+            "barriersToEntry": 8.5,
+            "switchingCost": 7.0,
+            "networkEffect": 9.5,
+            "economiesOfScale": 8.5,
+            "overall": 8.2
+        }
+    },
+    {
         "symbol": "CPT",
         "name": "Camden Property Trust",
         "price": 112.96,
@@ -2832,6 +2880,30 @@
         }
     },
     {
+        "symbol": "CTAS",
+        "name": "Cintas Corporation",
+        "price": 179.64,
+        "forwardPE": 33.057182,
+        "pegRatio": 2.86,
+        "roe": 41.303003,
+        "sector": "Industrials",
+        "change": 1.0974168495694685,
+        "marketCap": 71880589312,
+        "dividendYield": 1.0,
+        "revenueGrowth": 8.9,
+        "debtToEquity": 60.943,
+        "freeCashflow": 1508147456,
+        "priceToBook": 15.006266,
+        "moat": {
+            "brandLoyalty": 7.5,
+            "barriersToEntry": 7.0,
+            "switchingCost": 7.5,
+            "networkEffect": 6.0,
+            "economiesOfScale": 9.0,
+            "overall": 7.4
+        }
+    },
+    {
         "symbol": "CTSH",
         "name": "Cognizant Technology Solutions ",
         "price": 42.57,
@@ -2981,14 +3053,14 @@
         "price": 87.39,
         "forwardPE": 10.255766,
         "pegRatio": 0.21,
-        "roe": 20.125,
+        "roe": 24.990000000000002,
         "sector": "Industrials",
         "change": -1.8089887640449431,
         "marketCap": 57414737920,
-        "dividendYield": 0.89,
-        "revenueGrowth": 18.7,
-        "debtToEquity": 96.649,
-        "freeCashflow": 2843000064,
+        "dividendYield": 0.87,
+        "revenueGrowth": 12.9,
+        "debtToEquity": 105.021,
+        "freeCashflow": 3093374976,
         "priceToBook": 2.8024886,
         "moat": {
             "brandLoyalty": 7.5,
@@ -3333,6 +3405,30 @@
             "networkEffect": 3.0,
             "economiesOfScale": 6.5,
             "overall": 5.8
+        }
+    },
+    {
+        "symbol": "DOV",
+        "name": "Dover Corporation",
+        "price": 215.33,
+        "forwardPE": 18.58979,
+        "pegRatio": 1.76,
+        "roe": 14.998001,
+        "sector": "Industrials",
+        "change": 1.7771895826440514,
+        "marketCap": 28996640768,
+        "dividendYield": 0.97,
+        "revenueGrowth": 10.100000000000001,
+        "debtToEquity": 43.927,
+        "freeCashflow": 840764352,
+        "priceToBook": 3.8714492,
+        "moat": {
+            "brandLoyalty": 6.5,
+            "barriersToEntry": 6.0,
+            "switchingCost": 7.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 7.0,
+            "overall": 5.7
         }
     },
     {
@@ -3933,6 +4029,30 @@
             "networkEffect": 3.0,
             "economiesOfScale": 7.0,
             "overall": 5.8
+        }
+    },
+    {
+        "symbol": "ES",
+        "name": "Eversource Energy (D/B/A)",
+        "price": 74.82,
+        "forwardPE": 15.262473,
+        "pegRatio": 3.12,
+        "roe": 10.911999999999999,
+        "sector": "Utilities",
+        "change": 1.2038414716623649,
+        "marketCap": 28138307584,
+        "dividendYield": 4.21,
+        "revenueGrowth": 9.4,
+        "debtToEquity": 181.822,
+        "freeCashflow": 587291392,
+        "priceToBook": 1.7016922,
+        "moat": {
+            "brandLoyalty": 4.0,
+            "barriersToEntry": 9.5,
+            "switchingCost": 9.0,
+            "networkEffect": 3.0,
+            "economiesOfScale": 8.5,
+            "overall": 6.8
         }
     },
     {
@@ -5379,7 +5499,7 @@
         "symbol": "HOOD",
         "name": "Robinhood Markets, Inc.",
         "price": 111.97,
-        "forwardPE": 37.798203,
+        "forwardPE": 36.648632,
         "pegRatio": 3.07,
         "roe": 21.461001,
         "sector": "Financial Services",
@@ -6285,6 +6405,30 @@
             "networkEffect": 5.0,
             "economiesOfScale": 7.5,
             "overall": 7.4
+        }
+    },
+    {
+        "symbol": "KHC",
+        "name": "The Kraft Heinz Company",
+        "price": 24.85,
+        "forwardPE": 11.860272,
+        "pegRatio": 0.99,
+        "roe": -12.576,
+        "sector": "Consumer Defensive",
+        "change": -0.2808988764044955,
+        "marketCap": 29466574848,
+        "dividendYield": 6.44,
+        "revenueGrowth": 0.8,
+        "debtToEquity": 50.258,
+        "freeCashflow": 3212250112,
+        "priceToBook": 0.7030101,
+        "moat": {
+            "brandLoyalty": 8.5,
+            "barriersToEntry": 7.0,
+            "switchingCost": 5.0,
+            "networkEffect": 4.0,
+            "economiesOfScale": 8.5,
+            "overall": 6.6
         }
     },
     {
@@ -7371,7 +7515,7 @@
         "symbol": "MPC",
         "name": "Marathon Petroleum Corporation",
         "price": 283.74,
-        "forwardPE": 11.847315,
+        "forwardPE": 11.839431,
         "pegRatio": 1.39,
         "roe": 27.458,
         "sector": "Energy",
@@ -8040,30 +8184,6 @@
         }
     },
     {
-        "symbol": "NVDA",
-        "name": "NVIDIA Corporation",
-        "price": 210.96,
-        "forwardPE": 16.494099,
-        "pegRatio": 0.63,
-        "roe": 114.28799999999998,
-        "sector": "Technology",
-        "change": 4.033928395305261,
-        "marketCap": 5109662089216,
-        "dividendYield": 0.49,
-        "revenueGrowth": 85.2,
-        "debtToEquity": 6.555,
-        "freeCashflow": 46335873024,
-        "priceToBook": 26.141266,
-        "moat": {
-            "brandLoyalty": 9.5,
-            "barriersToEntry": 9.5,
-            "switchingCost": 9.0,
-            "networkEffect": 9.0,
-            "economiesOfScale": 9.0,
-            "overall": 9.2
-        }
-    },
-    {
         "symbol": "NVR",
         "name": "NVR, Inc.",
         "price": 6479.39,
@@ -8187,7 +8307,7 @@
         "symbol": "ODFL",
         "name": "Old Dominion Freight Line, Inc.",
         "price": 227.625,
-        "forwardPE": 35.330906,
+        "forwardPE": 35.33107,
         "pegRatio": 3.22,
         "roe": 23.331,
         "sector": "Industrials",
@@ -8546,17 +8666,17 @@
     {
         "symbol": "PFG",
         "name": "Principal Financial Group Inc",
-        "price": 112.23,
+        "price": 0.0,
         "forwardPE": 10.90959,
-        "pegRatio": 1.06,
-        "roe": 13.385999000000002,
-        "sector": "Financial Services",
-        "change": 0.501477567833798,
+        "pegRatio": 0.0,
+        "roe": 0,
+        "sector": "Unknown",
+        "change": 0.0,
         "marketCap": 24243070976,
         "dividendYield": 2.92,
-        "revenueGrowth": -4.5,
-        "debtToEquity": 33.624,
-        "freeCashflow": 1457624960,
+        "revenueGrowth": 0,
+        "debtToEquity": null,
+        "freeCashflow": null,
         "priceToBook": 2.055984,
         "moat": {
             "brandLoyalty": 6.5,
@@ -11829,30 +11949,6 @@
             "networkEffect": 1.0,
             "economiesOfScale": 1.0,
             "overall": 1.0
-        }
-    },
-    {
-        "symbol": "YUM",
-        "name": "Yum! Brands, Inc.",
-        "price": 163.54,
-        "forwardPE": 21.966597,
-        "pegRatio": 2.05,
-        "roe": 0,
-        "sector": "Consumer Cyclical",
-        "change": 0.708171685448615,
-        "marketCap": 45075091456,
-        "dividendYield": 1.83,
-        "revenueGrowth": 15.2,
-        "debtToEquity": null,
-        "freeCashflow": 1261500032,
-        "priceToBook": -6.184389,
-        "moat": {
-            "brandLoyalty": 9.0,
-            "barriersToEntry": 6.0,
-            "switchingCost": 4.0,
-            "networkEffect": 5.0,
-            "economiesOfScale": 9.0,
-            "overall": 6.6
         }
     },
     {
