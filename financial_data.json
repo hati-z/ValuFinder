@@ -1656,6 +1656,30 @@
         }
     },
     {
+        "symbol": "BRO",
+        "name": "Brown & Brown, Inc.",
+        "price": 67.66,
+        "forwardPE": 13.957769,
+        "pegRatio": 1.51,
+        "roe": 11.926,
+        "sector": "Financial Services",
+        "change": -0.26533018867925534,
+        "marketCap": 22933211136,
+        "dividendYield": 0.95,
+        "revenueGrowth": 35.699999999999996,
+        "debtToEquity": 64.37,
+        "freeCashflow": 1522499968,
+        "priceToBook": 1.8004738,
+        "moat": {
+            "brandLoyalty": 7.0,
+            "barriersToEntry": 6.0,
+            "switchingCost": 7.5,
+            "networkEffect": 4.0,
+            "economiesOfScale": 7.0,
+            "overall": 6.3
+        }
+    },
+    {
         "symbol": "BSX",
         "name": "Boston Scientific Corporation",
         "price": 44.77,
@@ -2229,6 +2253,30 @@
             "networkEffect": 2.0,
             "economiesOfScale": 6.0,
             "overall": 5.2
+        }
+    },
+    {
+        "symbol": "CL",
+        "name": "Colgate-Palmolive Company",
+        "price": 92.24,
+        "forwardPE": 22.76255,
+        "pegRatio": 1.66,
+        "roe": 363.57698,
+        "sector": "Consumer Defensive",
+        "change": 1.3514998351829355,
+        "marketCap": 73809461248,
+        "dividendYield": 2.33,
+        "revenueGrowth": 8.4,
+        "debtToEquity": 1640.535,
+        "freeCashflow": 3319500032,
+        "priceToBook": 509.61325,
+        "moat": {
+            "brandLoyalty": 9.0,
+            "barriersToEntry": 6.5,
+            "switchingCost": 4.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 8.5,
+            "overall": 6.0
         }
     },
     {
@@ -2880,30 +2928,6 @@
         }
     },
     {
-        "symbol": "CTVA",
-        "name": "Corteva, Inc.",
-        "price": 85.68,
-        "forwardPE": 20.784815,
-        "pegRatio": 1.43,
-        "roe": 5.1370002,
-        "sector": "Basic Materials",
-        "change": 2.170283806343915,
-        "marketCap": 57304494080,
-        "dividendYield": 0.84,
-        "revenueGrowth": 11.0,
-        "debtToEquity": 13.64,
-        "freeCashflow": 2576124928,
-        "priceToBook": 2.3565004,
-        "moat": {
-            "brandLoyalty": 7.5,
-            "barriersToEntry": 8.5,
-            "switchingCost": 7.5,
-            "networkEffect": 2.0,
-            "economiesOfScale": 8.0,
-            "overall": 6.7
-        }
-    },
-    {
         "symbol": "CVNA",
         "name": "Carvana Co.",
         "price": 65.83,
@@ -3480,6 +3504,30 @@
         }
     },
     {
+        "symbol": "DUK",
+        "name": "Duke Energy Corporation (Holdin",
+        "price": 125.48,
+        "forwardPE": 17.50387,
+        "pegRatio": 2.68,
+        "roe": 9.661,
+        "sector": "Utilities",
+        "change": 0.17563467986587805,
+        "marketCap": 97823735808,
+        "dividendYield": 3.39,
+        "revenueGrowth": 11.3,
+        "debtToEquity": 161.495,
+        "freeCashflow": -2246500096,
+        "priceToBook": 1.8252698,
+        "moat": {
+            "brandLoyalty": 4.0,
+            "barriersToEntry": 9.5,
+            "switchingCost": 9.0,
+            "networkEffect": 3.0,
+            "economiesOfScale": 9.0,
+            "overall": 6.9
+        }
+    },
+    {
         "symbol": "DVA",
         "name": "DaVita Inc.",
         "price": 232.8,
@@ -3866,17 +3914,17 @@
     {
         "symbol": "EQIX",
         "name": "Equinix, Inc.",
-        "price": 0.0,
+        "price": 1051.21,
         "forwardPE": 54.684074,
-        "pegRatio": 0.0,
-        "roe": 0,
-        "sector": "Unknown",
-        "change": 0.0,
+        "pegRatio": 3.33,
+        "roe": 10.059,
+        "sector": "Real Estate",
+        "change": 1.578942282605559,
         "marketCap": 103674789888,
         "dividendYield": 1.87,
-        "revenueGrowth": 0,
-        "debtToEquity": null,
-        "freeCashflow": null,
+        "revenueGrowth": 12.1,
+        "debtToEquity": 162.961,
+        "freeCashflow": 2725125120,
         "priceToBook": 7.250924,
         "moat": {
             "brandLoyalty": 7.5,
@@ -4656,6 +4704,30 @@
         }
     },
     {
+        "symbol": "FSLR",
+        "name": "First Solar, Inc.",
+        "price": 227.83,
+        "forwardPE": 9.717028,
+        "pegRatio": 0.59,
+        "roe": 18.436000999999997,
+        "sector": "Technology",
+        "change": -0.29321663019693106,
+        "marketCap": 24481099776,
+        "dividendYield": 0,
+        "revenueGrowth": 23.599999999999998,
+        "debtToEquity": 5.943,
+        "freeCashflow": 1147664768,
+        "priceToBook": 2.478191,
+        "moat": {
+            "brandLoyalty": 7.0,
+            "barriersToEntry": 8.0,
+            "switchingCost": 4.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 8.5,
+            "overall": 5.9
+        }
+    },
+    {
         "symbol": "FTNT",
         "name": "Fortinet, Inc.",
         "price": 157.51,
@@ -4827,7 +4899,7 @@
         "symbol": "GEV",
         "name": "GE Vernova Inc.",
         "price": 1091.57,
-        "forwardPE": 44.725033,
+        "forwardPE": 44.365494,
         "pegRatio": 1.85,
         "roe": 75.708,
         "sector": "Industrials",
@@ -5403,7 +5475,7 @@
         "symbol": "HOOD",
         "name": "Robinhood Markets, Inc.",
         "price": 111.97,
-        "forwardPE": 36.648632,
+        "forwardPE": 37.798203,
         "pegRatio": 3.07,
         "roe": 21.461001,
         "sector": "Financial Services",
@@ -6744,6 +6816,30 @@
         }
     },
     {
+        "symbol": "LMT",
+        "name": "Lockheed Martin Corporation",
+        "price": 523.22,
+        "forwardPE": 16.310522,
+        "pegRatio": 1.12,
+        "roe": 67.64,
+        "sector": "Industrials",
+        "change": 0.9570485856519965,
+        "marketCap": 120635490304,
+        "dividendYield": 2.66,
+        "revenueGrowth": 0.3,
+        "debtToEquity": 276.365,
+        "freeCashflow": 3987124992,
+        "priceToBook": 16.068916,
+        "moat": {
+            "brandLoyalty": 8.5,
+            "barriersToEntry": 9.8,
+            "switchingCost": 9.5,
+            "networkEffect": 6.0,
+            "economiesOfScale": 9.5,
+            "overall": 8.7
+        }
+    },
+    {
         "symbol": "LNT",
         "name": "Alliant Energy Corporation",
         "price": 76.4,
@@ -6912,6 +7008,30 @@
         }
     },
     {
+        "symbol": "LYV",
+        "name": "Live Nation Entertainment, Inc.",
+        "price": 179.79,
+        "forwardPE": 82.87583,
+        "pegRatio": 17.46,
+        "roe": 14.927000000000001,
+        "sector": "Communication Services",
+        "change": -1.5280972724285355,
+        "marketCap": 41839431680,
+        "dividendYield": 0,
+        "revenueGrowth": 12.2,
+        "debtToEquity": 738.269,
+        "freeCashflow": 2120347904,
+        "priceToBook": -297.66556,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 9.0,
+            "switchingCost": 8.0,
+            "networkEffect": 9.5,
+            "economiesOfScale": 8.5,
+            "overall": 8.6
+        }
+    },
+    {
         "symbol": "MA",
         "name": "Mastercard Incorporated",
         "price": 526.74,
@@ -7056,6 +7176,30 @@
         }
     },
     {
+        "symbol": "MCK",
+        "name": "McKesson Corporation",
+        "price": 805.96,
+        "forwardPE": 16.012146,
+        "pegRatio": 1.6,
+        "roe": 0,
+        "sector": "Healthcare",
+        "change": 1.6586571814180058,
+        "marketCap": 94359977984,
+        "dividendYield": 0.41,
+        "revenueGrowth": 6.0,
+        "debtToEquity": null,
+        "freeCashflow": 5657625088,
+        "priceToBook": -44.528175,
+        "moat": {
+            "brandLoyalty": 4.0,
+            "barriersToEntry": 8.0,
+            "switchingCost": 7.0,
+            "networkEffect": 0.0,
+            "economiesOfScale": 9.5,
+            "overall": 5.7
+        }
+    },
+    {
         "symbol": "MCO",
         "name": "Moody's Corporation",
         "price": 487.28,
@@ -7077,6 +7221,30 @@
             "networkEffect": 8.5,
             "economiesOfScale": 9.0,
             "overall": 8.9
+        }
+    },
+    {
+        "symbol": "MDLZ",
+        "name": "Mondelez International, Inc.",
+        "price": 58.83,
+        "forwardPE": 17.42533,
+        "pegRatio": 0.98,
+        "roe": 10.1610005,
+        "sector": "Consumer Defensive",
+        "change": 0.9090909090909112,
+        "marketCap": 75517116416,
+        "dividendYield": 3.4,
+        "revenueGrowth": 8.200000000000001,
+        "debtToEquity": 83.793,
+        "freeCashflow": 2847500032,
+        "priceToBook": 2.932702,
+        "moat": {
+            "brandLoyalty": 9.0,
+            "barriersToEntry": 6.5,
+            "switchingCost": 3.0,
+            "networkEffect": 0.0,
+            "economiesOfScale": 8.5,
+            "overall": 5.4
         }
     },
     {
@@ -7371,7 +7539,7 @@
         "symbol": "MRK",
         "name": "Merck & Company, Inc.",
         "price": 123.54,
-        "forwardPE": 12.820407,
+        "forwardPE": 12.866405,
         "pegRatio": 6.22,
         "roe": 18.944,
         "sector": "Healthcare",
@@ -8445,6 +8613,30 @@
             "networkEffect": 4.0,
             "economiesOfScale": 8.5,
             "overall": 6.9
+        }
+    },
+    {
+        "symbol": "PEP",
+        "name": "Pepsico, Inc.",
+        "price": 137.38,
+        "forwardPE": 15.276089,
+        "pegRatio": 1.53,
+        "roe": 43.879002,
+        "sector": "Consumer Defensive",
+        "change": -0.3481793123458713,
+        "marketCap": 187661090816,
+        "dividendYield": 4.15,
+        "revenueGrowth": 8.5,
+        "debtToEquity": 244.837,
+        "freeCashflow": 8746250240,
+        "priceToBook": 8.788945,
+        "moat": {
+            "brandLoyalty": 9.5,
+            "barriersToEntry": 8.0,
+            "switchingCost": 4.5,
+            "networkEffect": 4.0,
+            "economiesOfScale": 9.5,
+            "overall": 7.1
         }
     },
     {
@@ -10776,6 +10968,30 @@
         }
     },
     {
+        "symbol": "ULTA",
+        "name": "Ulta Beauty, Inc.",
+        "price": 469.2,
+        "forwardPE": 14.726067,
+        "pegRatio": 1.58,
+        "roe": 47.449002,
+        "sector": "Consumer Cyclical",
+        "change": 1.9468103598122672,
+        "marketCap": 20170586112,
+        "dividendYield": 0,
+        "revenueGrowth": 11.1,
+        "debtToEquity": 89.209,
+        "freeCashflow": 973080128,
+        "priceToBook": 7.3918867,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 5.0,
+            "switchingCost": 5.0,
+            "networkEffect": 3.0,
+            "economiesOfScale": 7.5,
+            "overall": 5.7
+        }
+    },
+    {
         "symbol": "UNH",
         "name": "UnitedHealth Group Incorporated",
         "price": 424.62,
@@ -10851,7 +11067,7 @@
         "symbol": "URI",
         "name": "United Rentals, Inc.",
         "price": 1095.55,
-        "forwardPE": 20.320036,
+        "forwardPE": 20.271097,
         "pegRatio": 1.76,
         "roe": 28.237000000000002,
         "sector": "Industrials",
@@ -11115,7 +11331,7 @@
         "symbol": "VRTX",
         "name": "Vertex Pharmaceuticals Incorpor",
         "price": 485.39,
-        "forwardPE": 22.79826,
+        "forwardPE": 22.857307,
         "pegRatio": 1.85,
         "roe": 24.197,
         "sector": "Healthcare",
@@ -11253,6 +11469,30 @@
             "networkEffect": 3.0,
             "economiesOfScale": 8.0,
             "overall": 7.0
+        }
+    },
+    {
+        "symbol": "WAT",
+        "name": "Waters Corporation",
+        "price": 376.43,
+        "forwardPE": 22.82239,
+        "pegRatio": 1.62,
+        "roe": 5.212,
+        "sector": "Healthcare",
+        "change": -0.18561238830111332,
+        "marketCap": 36960100352,
+        "dividendYield": 0,
+        "revenueGrowth": 91.4,
+        "debtToEquity": 36.634,
+        "freeCashflow": -502370624,
+        "priceToBook": 2.4164672,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 8.0,
+            "switchingCost": 8.5,
+            "networkEffect": 2.0,
+            "economiesOfScale": 7.5,
+            "overall": 6.8
         }
     },
     {
