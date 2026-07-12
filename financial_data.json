@@ -1536,6 +1536,30 @@
         }
     },
     {
+        "symbol": "BLK",
+        "name": "BlackRock, Inc.",
+        "price": 1036.11,
+        "forwardPE": 16.735983,
+        "pegRatio": 1.18,
+        "roe": 11.8990004,
+        "sector": "Financial Services",
+        "change": 1.6112898164129874,
+        "marketCap": 168473886720,
+        "dividendYield": 2.25,
+        "revenueGrowth": 27.0,
+        "debtToEquity": 23.635,
+        "freeCashflow": 7082375168,
+        "priceToBook": 2.839669,
+        "moat": {
+            "brandLoyalty": 9.0,
+            "barriersToEntry": 8.5,
+            "switchingCost": 8.0,
+            "networkEffect": 6.0,
+            "economiesOfScale": 9.5,
+            "overall": 8.2
+        }
+    },
+    {
         "symbol": "BMY",
         "name": "Bristol-Myers Squibb Company",
         "price": 57.58,
@@ -3360,6 +3384,30 @@
         }
     },
     {
+        "symbol": "DOC",
+        "name": "Healthpeak Properties, Inc.",
+        "price": 21.65,
+        "forwardPE": 2165.0,
+        "pegRatio": 4.32,
+        "roe": 2.7999999,
+        "sector": "Real Estate",
+        "change": 0.37088548910523084,
+        "marketCap": 14925936640,
+        "dividendYield": 5.64,
+        "revenueGrowth": 7.1,
+        "debtToEquity": 118.243,
+        "freeCashflow": 1109761536,
+        "priceToBook": 1.9232477,
+        "moat": {
+            "brandLoyalty": 5.5,
+            "barriersToEntry": 7.0,
+            "switchingCost": 7.0,
+            "networkEffect": 3.0,
+            "economiesOfScale": 6.5,
+            "overall": 5.8
+        }
+    },
+    {
         "symbol": "DOV",
         "name": "Dover Corporation",
         "price": 215.33,
@@ -3909,6 +3957,30 @@
             "networkEffect": 9.0,
             "economiesOfScale": 8.5,
             "overall": 8.4
+        }
+    },
+    {
+        "symbol": "EQR",
+        "name": "Equity Residential",
+        "price": 68.69,
+        "forwardPE": 43.751873,
+        "pegRatio": 16.1,
+        "roe": 8.671,
+        "sector": "Real Estate",
+        "change": 0.8811866647084656,
+        "marketCap": 26540169216,
+        "dividendYield": 4.09,
+        "revenueGrowth": 2.5,
+        "debtToEquity": 78.42,
+        "freeCashflow": 1416540928,
+        "priceToBook": 2.415685,
+        "moat": {
+            "brandLoyalty": 5.0,
+            "barriersToEntry": 6.0,
+            "switchingCost": 4.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 7.5,
+            "overall": 4.9
         }
     },
     {
@@ -7491,7 +7563,7 @@
         "symbol": "MRK",
         "name": "Merck & Company, Inc.",
         "price": 123.54,
-        "forwardPE": 12.866405,
+        "forwardPE": 12.852871,
         "pegRatio": 6.1,
         "roe": 18.944,
         "sector": "Healthcare",
@@ -8517,6 +8589,30 @@
             "networkEffect": 4.0,
             "economiesOfScale": 8.0,
             "overall": 6.9
+        }
+    },
+    {
+        "symbol": "PCG",
+        "name": "Pacific Gas & Electric Co.",
+        "price": 17.17,
+        "forwardPE": 9.5255,
+        "pegRatio": 0.74,
+        "roe": 8.826999,
+        "sector": "Utilities",
+        "change": -0.0582072176949826,
+        "marketCap": 37812195328,
+        "dividendYield": 1.16,
+        "revenueGrowth": 15.0,
+        "debtToEquity": 187.872,
+        "freeCashflow": -5572125184,
+        "priceToBook": 1.1939365,
+        "moat": {
+            "brandLoyalty": 3.0,
+            "barriersToEntry": 9.5,
+            "switchingCost": 9.0,
+            "networkEffect": 5.0,
+            "economiesOfScale": 9.0,
+            "overall": 7.1
         }
     },
     {
@@ -11349,6 +11445,30 @@
             "networkEffect": 1.0,
             "economiesOfScale": 7.5,
             "overall": 4.7
+        }
+    },
+    {
+        "symbol": "VZ",
+        "name": "Verizon Communications Inc.",
+        "price": 42.12,
+        "forwardPE": 7.9980245,
+        "pegRatio": 0.79,
+        "roe": 17.198,
+        "sector": "Communication Services",
+        "change": 1.4145548666706762,
+        "marketCap": 175874539520,
+        "dividendYield": 6.72,
+        "revenueGrowth": 2.9000000000000004,
+        "debtToEquity": 192.045,
+        "freeCashflow": 19608500224,
+        "priceToBook": 1.7024373,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 9.0,
+            "switchingCost": 7.0,
+            "networkEffect": 6.0,
+            "economiesOfScale": 9.0,
+            "overall": 7.8
         }
     },
     {
