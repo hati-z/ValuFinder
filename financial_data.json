@@ -2475,7 +2475,7 @@
         "symbol": "COF",
         "name": "Capital One Financial Corporati",
         "price": 201.52,
-        "forwardPE": 8.303748,
+        "forwardPE": 8.310316,
         "pegRatio": 0.22,
         "roe": 3.259,
         "sector": "Financial Services",
@@ -3061,7 +3061,7 @@
         "revenueGrowth": 18.7,
         "debtToEquity": 96.649,
         "freeCashflow": 2817374976,
-        "priceToBook": 2.6199186,
+        "priceToBook": 2.6201541,
         "moat": {
             "brandLoyalty": 7.5,
             "barriersToEntry": 8.0,
@@ -3981,30 +3981,6 @@
             "networkEffect": 2.0,
             "economiesOfScale": 7.5,
             "overall": 4.9
-        }
-    },
-    {
-        "symbol": "EQT",
-        "name": "EQT Corporation",
-        "price": 48.85,
-        "forwardPE": 11.649536,
-        "pegRatio": 2.22,
-        "roe": 13.402,
-        "sector": "Energy",
-        "change": -2.5922233300099644,
-        "marketCap": 30554599424,
-        "dividendYield": 1.32,
-        "revenueGrowth": 49.9,
-        "debtToEquity": 20.816,
-        "freeCashflow": 2503225856,
-        "priceToBook": 1.2164147,
-        "moat": {
-            "brandLoyalty": 4.0,
-            "barriersToEntry": 7.0,
-            "switchingCost": 2.0,
-            "networkEffect": 2.0,
-            "economiesOfScale": 8.5,
-            "overall": 4.7
         }
     },
     {
@@ -6120,6 +6096,30 @@
         }
     },
     {
+        "symbol": "ITW",
+        "name": "Illinois Tool Works Inc.",
+        "price": 268.81,
+        "forwardPE": 22.066307,
+        "pegRatio": 2.66,
+        "roe": 96.848,
+        "sector": "Industrials",
+        "change": 1.2543317764049962,
+        "marketCap": 77336633344,
+        "dividendYield": 2.4,
+        "revenueGrowth": 4.6,
+        "debtToEquity": 283.22,
+        "freeCashflow": 2215749888,
+        "priceToBook": 23.951708,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 7.5,
+            "switchingCost": 7.5,
+            "networkEffect": 4.0,
+            "economiesOfScale": 8.5,
+            "overall": 7.1
+        }
+    },
+    {
         "symbol": "IVZ",
         "name": "Invesco Ltd",
         "price": 28.98,
@@ -7137,7 +7137,7 @@
         "sector": "Consumer Cyclical",
         "change": -0.6835690260045522,
         "marketCap": 195104915456,
-        "dividendYield": 2.69,
+        "dividendYield": 2.71,
         "revenueGrowth": 9.4,
         "debtToEquity": null,
         "freeCashflow": 5952249856,
