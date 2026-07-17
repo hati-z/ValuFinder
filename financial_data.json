@@ -1560,6 +1560,30 @@
         }
     },
     {
+        "symbol": "BMY",
+        "name": "Bristol-Myers Squibb Company",
+        "price": 60.51,
+        "forwardPE": 9.763771,
+        "pegRatio": 1.53,
+        "roe": 38.731998000000004,
+        "sector": "Healthcare",
+        "change": 3.0483651226158024,
+        "marketCap": 123565727744,
+        "dividendYield": 4.29,
+        "revenueGrowth": 2.6,
+        "debtToEquity": 230.967,
+        "freeCashflow": 9851750400,
+        "priceToBook": 6.1568985,
+        "moat": {
+            "brandLoyalty": 7.5,
+            "barriersToEntry": 9.0,
+            "switchingCost": 7.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 8.5,
+            "overall": 6.8
+        }
+    },
+    {
         "symbol": "BNY",
         "name": "The Bank of New York Mellon Cor",
         "price": 160.86,
@@ -1573,7 +1597,7 @@
         "revenueGrowth": 13.4,
         "debtToEquity": null,
         "freeCashflow": null,
-        "priceToBook": 2.798636,
+        "priceToBook": 2.8043933,
         "moat": {
             "brandLoyalty": 5.7,
             "barriersToEntry": 6.1,
@@ -2331,7 +2355,7 @@
         "symbol": "CMG",
         "name": "Chipotle Mexican Grill, Inc.",
         "price": 34.2,
-        "forwardPE": 25.234451,
+        "forwardPE": 25.239666,
         "pegRatio": 1.96,
         "roe": 49.231997,
         "sector": "Consumer Cyclical",
@@ -4320,30 +4344,6 @@
         }
     },
     {
-        "symbol": "FAST",
-        "name": "Fastenal Company",
-        "price": 46.67,
-        "forwardPE": 33.43219,
-        "pegRatio": 3.3,
-        "roe": 34.333999999999996,
-        "sector": "Industrials",
-        "change": 2.8880070546737264,
-        "marketCap": 53553561600,
-        "dividendYield": 2.12,
-        "revenueGrowth": 14.7,
-        "debtToEquity": 10.851,
-        "freeCashflow": 916124992,
-        "priceToBook": 13.161308,
-        "moat": {
-            "brandLoyalty": 7.5,
-            "barriersToEntry": 6.0,
-            "switchingCost": 8.0,
-            "networkEffect": 4.0,
-            "economiesOfScale": 8.5,
-            "overall": 6.8
-        }
-    },
-    {
         "symbol": "FCX",
         "name": "Freeport-McMoRan, Inc.",
         "price": 58.56,
@@ -4677,6 +4677,30 @@
             "networkEffect": 5.0,
             "economiesOfScale": 6.5,
             "overall": 6.0
+        }
+    },
+    {
+        "symbol": "FRT",
+        "name": "Federal Realty Investment Trust",
+        "price": 125.36,
+        "forwardPE": 40.375412,
+        "pegRatio": 3.59,
+        "roe": 14.783,
+        "sector": "Real Estate",
+        "change": 2.5523560209424123,
+        "marketCap": 10896091136,
+        "dividendYield": 3.7,
+        "revenueGrowth": 10.299999999999999,
+        "debtToEquity": 138.432,
+        "freeCashflow": 448925248,
+        "priceToBook": 3.4364977,
+        "moat": {
+            "brandLoyalty": 6.0,
+            "barriersToEntry": 7.0,
+            "switchingCost": 5.0,
+            "networkEffect": 4.0,
+            "economiesOfScale": 7.0,
+            "overall": 5.8
         }
     },
     {
@@ -5160,6 +5184,30 @@
         }
     },
     {
+        "symbol": "GS",
+        "name": "Goldman Sachs Group, Inc. (The)",
+        "price": 1095.46,
+        "forwardPE": 15.231591,
+        "pegRatio": 1.71,
+        "roe": 16.951999,
+        "sector": "Financial Services",
+        "change": -4.913763920595094,
+        "marketCap": 323168829440,
+        "dividendYield": 1.56,
+        "revenueGrowth": 42.5,
+        "debtToEquity": 647.154,
+        "freeCashflow": null,
+        "priceToBook": 2.9893765,
+        "moat": {
+            "brandLoyalty": 9.0,
+            "barriersToEntry": 8.5,
+            "switchingCost": 7.5,
+            "networkEffect": 7.5,
+            "economiesOfScale": 8.0,
+            "overall": 8.1
+        }
+    },
+    {
         "symbol": "GWW",
         "name": "W.W. Grainger, Inc.",
         "price": 1402.03,
@@ -5403,7 +5451,7 @@
         "symbol": "HONA",
         "name": "Honeywell Aerospace Inc.",
         "price": 208.37,
-        "forwardPE": 20.653923,
+        "forwardPE": 20.712374,
         "pegRatio": 0.94,
         "roe": 0,
         "sector": "Industrials",
@@ -6075,7 +6123,7 @@
         "symbol": "IVZ",
         "name": "Invesco Ltd",
         "price": 30.3,
-        "forwardPE": 9.502155,
+        "forwardPE": 9.477013,
         "pegRatio": 0.9,
         "roe": -1.5350000000000001,
         "sector": "Financial Services",
@@ -6549,30 +6597,6 @@
             "networkEffect": 4.0,
             "economiesOfScale": 9.0,
             "overall": 7.0
-        }
-    },
-    {
-        "symbol": "L",
-        "name": "Loews Corporation",
-        "price": 113.89,
-        "forwardPE": 39.27241,
-        "pegRatio": 1.32,
-        "roe": 9.217,
-        "sector": "Financial Services",
-        "change": 1.2175613224315718,
-        "marketCap": 23435018240,
-        "dividendYield": 0.22,
-        "revenueGrowth": 1.4000000000000001,
-        "debtToEquity": 45.603,
-        "freeCashflow": 2084000000,
-        "priceToBook": 1.2529428,
-        "moat": {
-            "brandLoyalty": 6.0,
-            "barriersToEntry": 7.0,
-            "switchingCost": 6.0,
-            "networkEffect": 4.0,
-            "economiesOfScale": 7.5,
-            "overall": 6.1
         }
     },
     {
@@ -7608,34 +7632,10 @@
         }
     },
     {
-        "symbol": "MSCI",
-        "name": "MSCI Inc.",
-        "price": 637.24,
-        "forwardPE": 27.84074,
-        "pegRatio": 1.97,
-        "roe": 0,
-        "sector": "Financial Services",
-        "change": 2.488058285218011,
-        "marketCap": 46344929280,
-        "dividendYield": 1.32,
-        "revenueGrowth": 14.099999999999998,
-        "debtToEquity": null,
-        "freeCashflow": 1206103936,
-        "priceToBook": -16.746117,
-        "moat": {
-            "brandLoyalty": 9.0,
-            "barriersToEntry": 9.0,
-            "switchingCost": 9.0,
-            "networkEffect": 8.5,
-            "economiesOfScale": 9.0,
-            "overall": 8.9
-        }
-    },
-    {
         "symbol": "MSFT",
         "name": "Microsoft Corporation",
         "price": 401.1,
-        "forwardPE": 20.698826,
+        "forwardPE": 20.700354,
         "pegRatio": 1.19,
         "roe": 34.013999,
         "sector": "Technology",
@@ -7701,6 +7701,30 @@
             "networkEffect": 5.0,
             "economiesOfScale": 7.5,
             "overall": 6.9
+        }
+    },
+    {
+        "symbol": "MTD",
+        "name": "Mettler-Toledo International, I",
+        "price": 1335.09,
+        "forwardPE": 26.035717,
+        "pegRatio": 2.76,
+        "roe": 0,
+        "sector": "Healthcare",
+        "change": 1.4082260453457875,
+        "marketCap": 26978963456,
+        "dividendYield": 0,
+        "revenueGrowth": 7.199999999999999,
+        "debtToEquity": null,
+        "freeCashflow": 615044352,
+        "priceToBook": -644.0376,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 7.5,
+            "switchingCost": 8.0,
+            "networkEffect": 0.0,
+            "economiesOfScale": 7.0,
+            "overall": 6.1
         }
     },
     {
@@ -7821,30 +7845,6 @@
             "networkEffect": 0.0,
             "economiesOfScale": 9.0,
             "overall": 6.2
-        }
-    },
-    {
-        "symbol": "NEM",
-        "name": "Newmont Corporation",
-        "price": 90.83,
-        "forwardPE": 8.441301,
-        "pegRatio": 2.78,
-        "roe": 25.832,
-        "sector": "Basic Materials",
-        "change": -4.600357105346073,
-        "marketCap": 96965820416,
-        "dividendYield": 1.09,
-        "revenueGrowth": 45.800000000000004,
-        "debtToEquity": 15.762,
-        "freeCashflow": 9804874752,
-        "priceToBook": 2.7904763,
-        "moat": {
-            "brandLoyalty": 3.0,
-            "barriersToEntry": 8.0,
-            "switchingCost": 2.0,
-            "networkEffect": 0.0,
-            "economiesOfScale": 8.0,
-            "overall": 4.2
         }
     },
     {
@@ -8259,7 +8259,7 @@
         "symbol": "OKE",
         "name": "ONEOK, Inc.",
         "price": 93.0,
-        "forwardPE": 15.080976,
+        "forwardPE": 15.0383,
         "pegRatio": 2.22,
         "roe": 15.903,
         "sector": "Energy",
@@ -10464,6 +10464,30 @@
         }
     },
     {
+        "symbol": "TPR",
+        "name": "Tapestry, Inc.",
+        "price": 144.19,
+        "forwardPE": 18.535873,
+        "pegRatio": 0.28,
+        "roe": 60.914004,
+        "sector": "Consumer Cyclical",
+        "change": 2.8019392556680502,
+        "marketCap": 29132828672,
+        "dividendYield": 1.14,
+        "revenueGrowth": 21.2,
+        "debtToEquity": 574.912,
+        "freeCashflow": 1529737472,
+        "priceToBook": 42.7483,
+        "moat": {
+            "brandLoyalty": 7.5,
+            "barriersToEntry": 5.0,
+            "switchingCost": 3.0,
+            "networkEffect": 2.0,
+            "economiesOfScale": 6.5,
+            "overall": 4.8
+        }
+    },
+    {
         "symbol": "TRGP",
         "name": "Targa Resources, Inc.",
         "price": 280.27,
@@ -10800,30 +10824,6 @@
         }
     },
     {
-        "symbol": "UBER",
-        "name": "Uber Technologies, Inc.",
-        "price": 74.04,
-        "forwardPE": 16.70717,
-        "pegRatio": 5.85,
-        "roe": 35.31,
-        "sector": "Technology",
-        "change": 1.88523462226504,
-        "marketCap": 150715744256,
-        "dividendYield": 0,
-        "revenueGrowth": 14.499999999999998,
-        "debtToEquity": 48.113,
-        "freeCashflow": 6536625152,
-        "priceToBook": 6.0918217,
-        "moat": {
-            "brandLoyalty": 8.0,
-            "barriersToEntry": 6.0,
-            "switchingCost": 4.0,
-            "networkEffect": 9.5,
-            "economiesOfScale": 8.5,
-            "overall": 7.2
-        }
-    },
-    {
         "symbol": "UDR",
         "name": "UDR, Inc.",
         "price": 40.57,
@@ -10837,7 +10837,7 @@
         "revenueGrowth": 4.2,
         "debtToEquity": 142.368,
         "freeCashflow": 1007130496,
-        "priceToBook": 4.077387,
+        "priceToBook": 4.103783,
         "moat": {
             "brandLoyalty": 4.0,
             "barriersToEntry": 6.0,
@@ -11325,6 +11325,30 @@
             "networkEffect": 1.0,
             "economiesOfScale": 7.5,
             "overall": 4.7
+        }
+    },
+    {
+        "symbol": "VZ",
+        "name": "Verizon Communications Inc.",
+        "price": 43.88,
+        "forwardPE": 8.333555,
+        "pegRatio": 0.8,
+        "roe": 17.198,
+        "sector": "Communication Services",
+        "change": 2.451552650011684,
+        "marketCap": 183223533568,
+        "dividendYield": 6.61,
+        "revenueGrowth": 2.9000000000000004,
+        "debtToEquity": 192.045,
+        "freeCashflow": 19608500224,
+        "priceToBook": 1.7735744,
+        "moat": {
+            "brandLoyalty": 8.0,
+            "barriersToEntry": 9.0,
+            "switchingCost": 7.0,
+            "networkEffect": 6.0,
+            "economiesOfScale": 9.0,
+            "overall": 7.8
         }
     },
     {
