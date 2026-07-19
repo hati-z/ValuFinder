@@ -97,7 +97,7 @@
     },
     {
         "symbol": "ABT",
-        "name": "Abbott Laboratories",
+        "name": "ABT",
         "price": 100.68,
         "forwardPE": 16.595623,
         "pegRatio": 1.5,
@@ -109,7 +109,7 @@
         "revenueGrowth": 13.0,
         "debtToEquity": 64.773,
         "freeCashflow": null,
-        "priceToBook": 3.3684633,
+        "priceToBook": 3.3539877,
         "moat": {
             "brandLoyalty": 8.5,
             "barriersToEntry": 8.5,
@@ -193,7 +193,7 @@
     },
     {
         "symbol": "ADI",
-        "name": "Analog Devices, Inc.",
+        "name": "ADI",
         "price": 375.36,
         "forwardPE": 25.026602,
         "pegRatio": 0.7,
@@ -217,7 +217,7 @@
     },
     {
         "symbol": "ADM",
-        "name": "Archer-Daniels-Midland Company",
+        "name": "ADM",
         "price": 85.9,
         "forwardPE": 15.933433,
         "pegRatio": 2.52,
@@ -289,7 +289,7 @@
     },
     {
         "symbol": "AEE",
-        "name": "Ameren Corporation",
+        "name": "AEE",
         "price": 111.55,
         "forwardPE": 19.21434,
         "pegRatio": 2.53,
@@ -361,7 +361,7 @@
     },
     {
         "symbol": "AFL",
-        "name": "AFLAC Incorporated",
+        "name": "AFL",
         "price": 124.72,
         "forwardPE": 16.502048,
         "pegRatio": 1.18,
@@ -385,7 +385,7 @@
     },
     {
         "symbol": "AIG",
-        "name": "American International Group, I",
+        "name": "AIG",
         "price": 80.5,
         "forwardPE": 9.090109,
         "pegRatio": 0.66,
@@ -409,7 +409,7 @@
     },
     {
         "symbol": "AIZ",
-        "name": "Assurant, Inc.",
+        "name": "AIZ",
         "price": 276.84,
         "forwardPE": 12.301539,
         "pegRatio": 2.16,
@@ -433,7 +433,7 @@
     },
     {
         "symbol": "AJG",
-        "name": "Arthur J. Gallagher & Co.",
+        "name": "AJG",
         "price": 253.9,
         "forwardPE": 17.075392,
         "pegRatio": 0.84,
@@ -625,7 +625,7 @@
     },
     {
         "symbol": "AMD",
-        "name": "Advanced Micro Devices, Inc.",
+        "name": "AMD",
         "price": 495.76,
         "forwardPE": 36.81913,
         "pegRatio": 1.16,
@@ -697,7 +697,7 @@
     },
     {
         "symbol": "AMP",
-        "name": "Ameriprise Financial, Inc.",
+        "name": "AMP",
         "price": 527.87,
         "forwardPE": 10.588349,
         "pegRatio": 1.76,
@@ -841,7 +841,7 @@
     },
     {
         "symbol": "APA",
-        "name": "APA Corporation",
+        "name": "APA",
         "price": 35.22,
         "forwardPE": 8.91693,
         "pegRatio": 0.65,
@@ -865,7 +865,7 @@
     },
     {
         "symbol": "APD",
-        "name": "Air Products and Chemicals, Inc",
+        "name": "APD",
         "price": 295.62,
         "forwardPE": 20.704203,
         "pegRatio": 2.21,
@@ -889,7 +889,7 @@
     },
     {
         "symbol": "APH",
-        "name": "Amphenol Corporation",
+        "name": "APH",
         "price": 151.2,
         "forwardPE": 25.885712,
         "pegRatio": 1.31,
@@ -985,7 +985,7 @@
     },
     {
         "symbol": "ARE",
-        "name": "Alexandria Real Estate Equities",
+        "name": "ARE",
         "price": 50.22,
         "forwardPE": -57.068184,
         "pegRatio": 3.24,
@@ -1057,7 +1057,7 @@
     },
     {
         "symbol": "AVB",
-        "name": "AvalonBay Communities, Inc.",
+        "name": "AVB",
         "price": 192.53,
         "forwardPE": 39.519436,
         "pegRatio": 7.17,
@@ -1105,7 +1105,7 @@
     },
     {
         "symbol": "AVY",
-        "name": "Avery Dennison Corporation",
+        "name": "AVY",
         "price": 160.41,
         "forwardPE": 14.382471,
         "pegRatio": 1.92,
@@ -1129,7 +1129,7 @@
     },
     {
         "symbol": "AWK",
-        "name": "American Water Works Company, I",
+        "name": "AWK",
         "price": 135.11,
         "forwardPE": 20.577843,
         "pegRatio": 2.61,
@@ -1201,7 +1201,7 @@
     },
     {
         "symbol": "AZO",
-        "name": "AutoZone, Inc.",
+        "name": "AZO",
         "price": 3046.44,
         "forwardPE": 17.350313,
         "pegRatio": 1.39,
@@ -1249,14 +1249,14 @@
     },
     {
         "symbol": "BAC",
-        "name": "Bank of America Corporation",
+        "name": "BAC",
         "price": 61.27,
         "forwardPE": 11.666899,
         "pegRatio": 1.07,
         "roe": 11.1990005,
         "sector": "Financial Services",
         "change": -0.35778175313058846,
-        "marketCap": 429990871040,
+        "marketCap": 434808127488,
         "dividendYield": 1.83,
         "revenueGrowth": 21.4,
         "debtToEquity": null,
@@ -1321,7 +1321,7 @@
     },
     {
         "symbol": "BBY",
-        "name": "Best Buy Co., Inc.",
+        "name": "BBY",
         "price": 85.41,
         "forwardPE": 12.077719,
         "pegRatio": 1.63,
@@ -1345,7 +1345,7 @@
     },
     {
         "symbol": "BDX",
-        "name": "Becton, Dickinson and Company",
+        "name": "BDX",
         "price": 158.17,
         "forwardPE": 11.78961,
         "pegRatio": 1.11,
@@ -1417,7 +1417,7 @@
     },
     {
         "symbol": "BG",
-        "name": "Bunge Limited",
+        "name": "BG",
         "price": 119.15,
         "forwardPE": 10.683512,
         "pegRatio": 1.37,
@@ -1537,7 +1537,7 @@
     },
     {
         "symbol": "BLK",
-        "name": "BlackRock, Inc.",
+        "name": "BLK",
         "price": 1072.2,
         "forwardPE": 16.717077,
         "pegRatio": 1.15,
@@ -1609,7 +1609,7 @@
     },
     {
         "symbol": "BR",
-        "name": "Broadridge Financial Solutions,",
+        "name": "BR",
         "price": 149.91,
         "forwardPE": 14.393456,
         "pegRatio": 1.05,
@@ -1849,7 +1849,7 @@
     },
     {
         "symbol": "CAT",
-        "name": "Caterpillar, Inc.",
+        "name": "CAT",
         "price": 880.28,
         "forwardPE": 28.923698,
         "pegRatio": 2.06,
@@ -1945,7 +1945,7 @@
     },
     {
         "symbol": "CCI",
-        "name": "Crown Castle Inc.",
+        "name": "CCI",
         "price": 79.17,
         "forwardPE": 26.784264,
         "pegRatio": 1.28,
@@ -2017,7 +2017,7 @@
     },
     {
         "symbol": "CDW",
-        "name": "CDW Corporation",
+        "name": "CDW",
         "price": 133.24,
         "forwardPE": 11.309736,
         "pegRatio": 1.33,
@@ -2113,7 +2113,7 @@
     },
     {
         "symbol": "CHD",
-        "name": "Church & Dwight Company, Inc.",
+        "name": "CHD",
         "price": 98.07,
         "forwardPE": 24.22612,
         "pegRatio": 3.01,
@@ -2257,7 +2257,7 @@
     },
     {
         "symbol": "CL",
-        "name": "Colgate-Palmolive Company",
+        "name": "CL",
         "price": 92.98,
         "forwardPE": 22.921917,
         "pegRatio": 1.66,
@@ -2281,7 +2281,7 @@
     },
     {
         "symbol": "CLX",
-        "name": "Clorox Company (The)",
+        "name": "CLX",
         "price": 96.32,
         "forwardPE": 15.994844,
         "pegRatio": 2.27,
@@ -2293,7 +2293,7 @@
         "revenueGrowth": 0.1,
         "debtToEquity": 4876.087,
         "freeCashflow": 62750000,
-        "priceToBook": -173.86281,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 8.5,
             "barriersToEntry": 6.0,
@@ -2353,7 +2353,7 @@
     },
     {
         "symbol": "CMG",
-        "name": "Chipotle Mexican Grill, Inc.",
+        "name": "CMG",
         "price": 34.44,
         "forwardPE": 25.417536,
         "pegRatio": 1.84,
@@ -2401,7 +2401,7 @@
     },
     {
         "symbol": "CMS",
-        "name": "CMS Energy Corporation",
+        "name": "CMS",
         "price": 73.65,
         "forwardPE": 17.64482,
         "pegRatio": 2.87,
@@ -2545,7 +2545,7 @@
     },
     {
         "symbol": "COO",
-        "name": "The Cooper Companies, Inc.",
+        "name": "COO",
         "price": 71.71,
         "forwardPE": 14.330936,
         "pegRatio": 0.69,
@@ -2672,7 +2672,7 @@
         "roe": 17.607,
         "sector": "Industrials",
         "change": -2.4036762106751492,
-        "marketCap": 26596945920,
+        "marketCap": 25561655296,
         "dividendYield": 0,
         "revenueGrowth": 2.1,
         "debtToEquity": 1.059,
@@ -2689,7 +2689,7 @@
     },
     {
         "symbol": "CPT",
-        "name": "Camden Property Trust",
+        "name": "CPT",
         "price": 112.97,
         "forwardPE": 143.91083,
         "pegRatio": 9.17,
@@ -2713,7 +2713,7 @@
     },
     {
         "symbol": "CRH",
-        "name": "CRH PLC",
+        "name": "CRH",
         "price": 102.92,
         "forwardPE": 15.398518,
         "pegRatio": 2.1,
@@ -2737,7 +2737,7 @@
     },
     {
         "symbol": "CRL",
-        "name": "Charles River Laboratories Inte",
+        "name": "CRL",
         "price": 224.35,
         "forwardPE": 18.196108,
         "pegRatio": 0.12,
@@ -2761,7 +2761,7 @@
     },
     {
         "symbol": "CRM",
-        "name": "Salesforce, Inc.",
+        "name": "CRM",
         "price": 170.77,
         "forwardPE": 10.999522,
         "pegRatio": 0.71,
@@ -3049,7 +3049,7 @@
     },
     {
         "symbol": "DAL",
-        "name": "Delta Air Lines, Inc.",
+        "name": "DAL",
         "price": 84.17,
         "forwardPE": 9.503733,
         "pegRatio": 0.21,
@@ -3097,7 +3097,7 @@
     },
     {
         "symbol": "DD",
-        "name": "DuPont de Nemours, Inc.",
+        "name": "DD",
         "price": 135.29,
         "forwardPE": 17.851675,
         "pegRatio": 1.72,
@@ -3152,7 +3152,7 @@
         "roe": 18.349001,
         "sector": "Industrials",
         "change": -0.28882915671903736,
-        "marketCap": 161318879232,
+        "marketCap": 161217429504,
         "dividendYield": 1.08,
         "revenueGrowth": -11.1,
         "debtToEquity": 376.022,
@@ -3265,7 +3265,7 @@
     },
     {
         "symbol": "DHI",
-        "name": "D.R. Horton, Inc.",
+        "name": "DHI",
         "price": 149.39,
         "forwardPE": 12.448669,
         "pegRatio": 1.29,
@@ -3313,7 +3313,7 @@
     },
     {
         "symbol": "DIS",
-        "name": "Walt Disney Company (The)",
+        "name": "DIS",
         "price": 97.67,
         "forwardPE": 13.065311,
         "pegRatio": 2.27,
@@ -3385,7 +3385,7 @@
     },
     {
         "symbol": "DOC",
-        "name": "Healthpeak Properties, Inc.",
+        "name": "DOC",
         "price": 22.51,
         "forwardPE": -150.06667,
         "pegRatio": 4.32,
@@ -3457,7 +3457,7 @@
     },
     {
         "symbol": "DPZ",
-        "name": "Domino's Pizza Inc",
+        "name": "DPZ",
         "price": 322.18,
         "forwardPE": 15.500319,
         "pegRatio": 1.58,
@@ -3505,7 +3505,7 @@
     },
     {
         "symbol": "DTE",
-        "name": "DTE Energy Company",
+        "name": "DTE",
         "price": 148.19,
         "forwardPE": 17.73692,
         "pegRatio": 2.07,
@@ -3577,7 +3577,7 @@
     },
     {
         "symbol": "DVN",
-        "name": "Devon Energy Corporation",
+        "name": "DVN",
         "price": 43.83,
         "forwardPE": 8.264697,
         "pegRatio": 2.92,
@@ -3625,7 +3625,7 @@
     },
     {
         "symbol": "EA",
-        "name": "Electronic Arts Inc.",
+        "name": "EA",
         "price": 208.9,
         "forwardPE": 21.695284,
         "pegRatio": 1.29,
@@ -3721,7 +3721,7 @@
     },
     {
         "symbol": "ED",
-        "name": "Consolidated Edison, Inc.",
+        "name": "ED",
         "price": 112.37,
         "forwardPE": 17.318707,
         "pegRatio": 2.96,
@@ -3793,7 +3793,7 @@
     },
     {
         "symbol": "EIX",
-        "name": "Edison International",
+        "name": "EIX",
         "price": 77.63,
         "forwardPE": 11.921269,
         "pegRatio": 3.69,
@@ -3817,7 +3817,7 @@
     },
     {
         "symbol": "EL",
-        "name": "Estee Lauder Companies, Inc. (T",
+        "name": "EL",
         "price": 82.13,
         "forwardPE": 25.834517,
         "pegRatio": 1.42,
@@ -3961,7 +3961,7 @@
     },
     {
         "symbol": "EQR",
-        "name": "Equity Residential",
+        "name": "EQR",
         "price": 69.0,
         "forwardPE": 44.069744,
         "pegRatio": 16.1,
@@ -3985,7 +3985,7 @@
     },
     {
         "symbol": "EQT",
-        "name": "EQT Corporation",
+        "name": "EQT",
         "price": 49.56,
         "forwardPE": 11.856375,
         "pegRatio": 2.24,
@@ -4081,7 +4081,7 @@
     },
     {
         "symbol": "ETN",
-        "name": "Eaton Corporation, PLC",
+        "name": "ETN",
         "price": 399.99,
         "forwardPE": 25.352713,
         "pegRatio": 3.01,
@@ -4177,7 +4177,7 @@
     },
     {
         "symbol": "EXC",
-        "name": "Exelon Corporation",
+        "name": "EXC",
         "price": 46.26,
         "forwardPE": 15.229479,
         "pegRatio": 2.69,
@@ -4201,7 +4201,7 @@
     },
     {
         "symbol": "EXE",
-        "name": "Expand Energy Corporation",
+        "name": "EXE",
         "price": 88.13,
         "forwardPE": 10.425612,
         "pegRatio": 2.73,
@@ -4251,7 +4251,7 @@
         "symbol": "EXPE",
         "name": "Expedia Group, Inc.",
         "price": 268.77,
-        "forwardPE": 11.676616,
+        "forwardPE": 11.705434,
         "pegRatio": 0.88,
         "roe": 71.494,
         "sector": "Consumer Cyclical",
@@ -4297,7 +4297,7 @@
     },
     {
         "symbol": "F",
-        "name": "Ford Motor Company",
+        "name": "F",
         "price": 14.23,
         "forwardPE": 7.7813134,
         "pegRatio": 8.48,
@@ -4369,7 +4369,7 @@
     },
     {
         "symbol": "FCX",
-        "name": "Freeport-McMoRan, Inc.",
+        "name": "FCX",
         "price": 58.38,
         "forwardPE": 14.498585,
         "pegRatio": 6.36,
@@ -4417,7 +4417,7 @@
     },
     {
         "symbol": "FDX",
-        "name": "FedEx Corporation",
+        "name": "FDX",
         "price": 312.98,
         "forwardPE": 15.268911,
         "pegRatio": 1.3,
@@ -4609,7 +4609,7 @@
     },
     {
         "symbol": "FIX",
-        "name": "Comfort Systems USA, Inc.",
+        "name": "FIX",
         "price": 1674.06,
         "forwardPE": 30.904285,
         "pegRatio": 0.8,
@@ -4849,9 +4849,9 @@
     },
     {
         "symbol": "GE",
-        "name": "GE Aerospace",
+        "name": "GE",
         "price": 348.83,
-        "forwardPE": 39.943024,
+        "forwardPE": 39.27408,
         "pegRatio": 8.4,
         "roe": 48.231998,
         "sector": "Industrials",
@@ -4897,7 +4897,7 @@
     },
     {
         "symbol": "GEN",
-        "name": "Gen Digital Inc.",
+        "name": "GEN",
         "price": 26.74,
         "forwardPE": 8.135696,
         "pegRatio": 1.55,
@@ -4969,7 +4969,7 @@
     },
     {
         "symbol": "GIS",
-        "name": "General Mills, Inc.",
+        "name": "GIS",
         "price": 37.97,
         "forwardPE": 11.753818,
         "pegRatio": 11.74,
@@ -5017,7 +5017,7 @@
     },
     {
         "symbol": "GLW",
-        "name": "Corning Incorporated",
+        "name": "GLW",
         "price": 154.61,
         "forwardPE": 36.03828,
         "pegRatio": 1.47,
@@ -5041,7 +5041,7 @@
     },
     {
         "symbol": "GM",
-        "name": "General Motors Company",
+        "name": "GM",
         "price": 76.07,
         "forwardPE": 5.3676376,
         "pegRatio": 0.34,
@@ -5137,7 +5137,7 @@
     },
     {
         "symbol": "GPC",
-        "name": "Genuine Parts Company",
+        "name": "GPC",
         "price": 124.82,
         "forwardPE": 14.950205,
         "pegRatio": 1.32,
@@ -5161,7 +5161,7 @@
     },
     {
         "symbol": "GPN",
-        "name": "Global Payments Inc.",
+        "name": "GPN",
         "price": 77.82,
         "forwardPE": 4.8207216,
         "pegRatio": 0.23,
@@ -5209,7 +5209,7 @@
     },
     {
         "symbol": "GS",
-        "name": "Goldman Sachs Group, Inc. (The)",
+        "name": "GS",
         "price": 1065.22,
         "forwardPE": 14.72599,
         "pegRatio": 1.58,
@@ -5233,7 +5233,7 @@
     },
     {
         "symbol": "GWW",
-        "name": "W.W. Grainger, Inc.",
+        "name": "GWW",
         "price": 1395.01,
         "forwardPE": 27.634058,
         "pegRatio": 2.2,
@@ -5281,7 +5281,7 @@
     },
     {
         "symbol": "HAS",
-        "name": "Hasbro, Inc.",
+        "name": "HAS",
         "price": 81.55,
         "forwardPE": 12.789369,
         "pegRatio": 1.77,
@@ -5331,7 +5331,7 @@
         "symbol": "HCA",
         "name": "HCA Healthcare, Inc.",
         "price": 371.18,
-        "forwardPE": 11.3365965,
+        "forwardPE": 11.305361,
         "pegRatio": 1.24,
         "roe": 0,
         "sector": "Healthcare",
@@ -5353,7 +5353,7 @@
     },
     {
         "symbol": "HD",
-        "name": "Home Depot, Inc. (The)",
+        "name": "HD",
         "price": 338.87,
         "forwardPE": 21.05796,
         "pegRatio": 1.91,
@@ -5401,7 +5401,7 @@
     },
     {
         "symbol": "HII",
-        "name": "Huntington Ingalls Industries, ",
+        "name": "HII",
         "price": 269.13,
         "forwardPE": 13.340875,
         "pegRatio": 0.99,
@@ -5449,7 +5449,7 @@
     },
     {
         "symbol": "HON",
-        "name": "Honeywell International Inc.",
+        "name": "HON",
         "price": 225.02,
         "forwardPE": 23.021786,
         "pegRatio": 8.4,
@@ -5545,7 +5545,7 @@
     },
     {
         "symbol": "HPQ",
-        "name": "HP Inc.",
+        "name": "HPQ",
         "price": 24.84,
         "forwardPE": 8.253644,
         "pegRatio": 19.85,
@@ -5569,14 +5569,14 @@
     },
     {
         "symbol": "HRL",
-        "name": "Hormel Foods Corporation",
+        "name": "HRL",
         "price": 25.39,
         "forwardPE": 16.274597,
         "pegRatio": 1.8,
         "roe": 5.831,
         "sector": "Consumer Defensive",
         "change": -1.2446518864255165,
-        "marketCap": 13971716096,
+        "marketCap": 13972496384,
         "dividendYield": 4.61,
         "revenueGrowth": -2.9000000000000004,
         "debtToEquity": 4.244,
@@ -5617,7 +5617,7 @@
     },
     {
         "symbol": "HST",
-        "name": "Host Hotels & Resorts, Inc.",
+        "name": "HST",
         "price": 23.94,
         "forwardPE": 23.892218,
         "pegRatio": 3.9,
@@ -5689,7 +5689,7 @@
     },
     {
         "symbol": "HUM",
-        "name": "Humana Inc.",
+        "name": "HUM",
         "price": 400.0,
         "forwardPE": 24.952341,
         "pegRatio": 2.19,
@@ -5785,7 +5785,7 @@
     },
     {
         "symbol": "ICE",
-        "name": "Intercontinental Exchange Inc.",
+        "name": "ICE",
         "price": 139.65,
         "forwardPE": 16.004465,
         "pegRatio": 2.0,
@@ -5857,7 +5857,7 @@
     },
     {
         "symbol": "IFF",
-        "name": "International Flavors & Fragran",
+        "name": "IFF",
         "price": 78.2,
         "forwardPE": 16.259687,
         "pegRatio": 0.9,
@@ -5977,7 +5977,7 @@
     },
     {
         "symbol": "IP",
-        "name": "International Paper Company",
+        "name": "IP",
         "price": 37.56,
         "forwardPE": 13.40079,
         "pegRatio": 1.58,
@@ -6025,7 +6025,7 @@
     },
     {
         "symbol": "IR",
-        "name": "Ingersoll Rand Inc.",
+        "name": "IR",
         "price": 82.24,
         "forwardPE": 21.346788,
         "pegRatio": 0.78,
@@ -6241,7 +6241,7 @@
     },
     {
         "symbol": "JCI",
-        "name": "Johnson Controls International ",
+        "name": "JCI",
         "price": 140.46,
         "forwardPE": 24.369467,
         "pegRatio": 1.9,
@@ -6313,7 +6313,7 @@
     },
     {
         "symbol": "JPM",
-        "name": "JP Morgan Chase & Co.",
+        "name": "JPM",
         "price": 341.1,
         "forwardPE": 13.894915,
         "pegRatio": 1.76,
@@ -6361,7 +6361,7 @@
     },
     {
         "symbol": "KEY",
-        "name": "KeyCorp",
+        "name": "KEY",
         "price": 23.55,
         "forwardPE": 10.959401,
         "pegRatio": 1.84,
@@ -6433,7 +6433,7 @@
     },
     {
         "symbol": "KIM",
-        "name": "Kimco Realty Corporation (HC)",
+        "name": "KIM",
         "price": 26.12,
         "forwardPE": 30.161663,
         "pegRatio": 3.37,
@@ -6483,7 +6483,7 @@
         "symbol": "KLAC",
         "name": "KLA Corporation",
         "price": 212.75,
-        "forwardPE": 41.513813,
+        "forwardPE": 41.456944,
         "pegRatio": 2.27,
         "roe": 94.975996,
         "sector": "Technology",
@@ -6529,7 +6529,7 @@
     },
     {
         "symbol": "KMI",
-        "name": "Kinder Morgan, Inc.",
+        "name": "KMI",
         "price": 32.3,
         "forwardPE": 21.458515,
         "pegRatio": 3.85,
@@ -6553,7 +6553,7 @@
     },
     {
         "symbol": "KO",
-        "name": "Coca-Cola Company (The)",
+        "name": "KO",
         "price": 81.56,
         "forwardPE": 23.415249,
         "pegRatio": 3.99,
@@ -6577,7 +6577,7 @@
     },
     {
         "symbol": "KR",
-        "name": "Kroger Company (The)",
+        "name": "KR",
         "price": 58.82,
         "forwardPE": 10.621777,
         "pegRatio": 0.57,
@@ -6697,7 +6697,7 @@
     },
     {
         "symbol": "LH",
-        "name": "Labcorp Holdings Inc.",
+        "name": "LH",
         "price": 283.36,
         "forwardPE": 14.597509,
         "pegRatio": 1.2,
@@ -6745,7 +6745,7 @@
     },
     {
         "symbol": "LII",
-        "name": "Lennox International, Inc.",
+        "name": "LII",
         "price": 543.93,
         "forwardPE": 20.329872,
         "pegRatio": 1.57,
@@ -6817,7 +6817,7 @@
     },
     {
         "symbol": "LLY",
-        "name": "Eli Lilly and Company",
+        "name": "LLY",
         "price": 1179.11,
         "forwardPE": 26.255041,
         "pegRatio": 1.58,
@@ -6889,14 +6889,14 @@
     },
     {
         "symbol": "LOW",
-        "name": "Lowe's Companies, Inc.",
+        "name": "LOW",
         "price": 208.73,
         "forwardPE": 15.487109,
         "pegRatio": 1.36,
         "roe": 0,
         "sector": "Consumer Cyclical",
         "change": -3.4372686898593665,
-        "marketCap": 117097529344,
+        "marketCap": 117036384256,
         "dividendYield": 2.4,
         "revenueGrowth": 10.299999999999999,
         "debtToEquity": null,
@@ -7009,7 +7009,7 @@
     },
     {
         "symbol": "LYB",
-        "name": "LyondellBasell Industries NV",
+        "name": "LYB",
         "price": 59.17,
         "forwardPE": 8.846924,
         "pegRatio": 1.53,
@@ -7033,7 +7033,7 @@
     },
     {
         "symbol": "LYV",
-        "name": "Live Nation Entertainment, Inc.",
+        "name": "LYV",
         "price": 180.22,
         "forwardPE": 83.07404,
         "pegRatio": 17.27,
@@ -7045,7 +7045,7 @@
         "revenueGrowth": 12.2,
         "debtToEquity": 738.269,
         "freeCashflow": 2120347904,
-        "priceToBook": -298.3775,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 8.0,
             "barriersToEntry": 9.0,
@@ -7057,7 +7057,7 @@
     },
     {
         "symbol": "MA",
-        "name": "Mastercard Incorporated",
+        "name": "MA",
         "price": 543.6,
         "forwardPE": 23.850138,
         "pegRatio": 1.67,
@@ -7105,7 +7105,7 @@
     },
     {
         "symbol": "MAR",
-        "name": "Marriott International",
+        "name": "MAR",
         "price": 366.24,
         "forwardPE": 27.97938,
         "pegRatio": 2.18,
@@ -7117,7 +7117,7 @@
         "revenueGrowth": 12.6,
         "debtToEquity": null,
         "freeCashflow": 1796875008,
-        "priceToBook": -23.691053,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 9.0,
             "barriersToEntry": 7.5,
@@ -7129,7 +7129,7 @@
     },
     {
         "symbol": "MAS",
-        "name": "Masco Corporation",
+        "name": "MAS",
         "price": 78.65,
         "forwardPE": 16.690859,
         "pegRatio": 1.99,
@@ -7153,7 +7153,7 @@
     },
     {
         "symbol": "MCD",
-        "name": "McDonald's Corporation",
+        "name": "MCD",
         "price": 267.71,
         "forwardPE": 18.91728,
         "pegRatio": 2.57,
@@ -7165,7 +7165,7 @@
         "revenueGrowth": 9.4,
         "debtToEquity": null,
         "freeCashflow": 5952249856,
-        "priceToBook": -147.90608,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 9.5,
             "barriersToEntry": 7.0,
@@ -7201,7 +7201,7 @@
     },
     {
         "symbol": "MCK",
-        "name": "McKesson Corporation",
+        "name": "MCK",
         "price": 841.39,
         "forwardPE": 16.712915,
         "pegRatio": 1.64,
@@ -7273,7 +7273,7 @@
     },
     {
         "symbol": "MDT",
-        "name": "Medtronic plc.",
+        "name": "MDT",
         "price": 83.2,
         "forwardPE": 12.989891,
         "pegRatio": 1.64,
@@ -7345,7 +7345,7 @@
     },
     {
         "symbol": "MGM",
-        "name": "MGM Resorts International",
+        "name": "MGM",
         "price": 46.13,
         "forwardPE": 20.603315,
         "pegRatio": 1.23,
@@ -7465,7 +7465,7 @@
     },
     {
         "symbol": "MO",
-        "name": "Altria Group, Inc.",
+        "name": "MO",
         "price": 74.21,
         "forwardPE": 12.626718,
         "pegRatio": 1.7,
@@ -7477,7 +7477,7 @@
         "revenueGrowth": 5.3,
         "debtToEquity": null,
         "freeCashflow": 8542875136,
-        "priceToBook": -38.61082,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 9.5,
             "barriersToEntry": 8.5,
@@ -7561,7 +7561,7 @@
     },
     {
         "symbol": "MRK",
-        "name": "Merck & Company, Inc.",
+        "name": "MRK",
         "price": 127.5,
         "forwardPE": 13.203829,
         "pegRatio": 11.81,
@@ -7777,7 +7777,7 @@
     },
     {
         "symbol": "MTD",
-        "name": "Mettler-Toledo International, I",
+        "name": "MTD",
         "price": 1310.02,
         "forwardPE": 25.546825,
         "pegRatio": 2.75,
@@ -7789,7 +7789,7 @@
         "revenueGrowth": 7.199999999999999,
         "debtToEquity": null,
         "freeCashflow": 615044352,
-        "priceToBook": -631.9441,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 8.0,
             "barriersToEntry": 7.5,
@@ -7801,7 +7801,7 @@
     },
     {
         "symbol": "MU",
-        "name": "Micron Technology, Inc.",
+        "name": "MU",
         "price": 848.95,
         "forwardPE": 5.630772,
         "pegRatio": 0.12,
@@ -7897,7 +7897,7 @@
     },
     {
         "symbol": "NEE",
-        "name": "NextEra Energy, Inc.",
+        "name": "NEE",
         "price": 88.8,
         "forwardPE": 20.169075,
         "pegRatio": 1.95,
@@ -8017,7 +8017,7 @@
     },
     {
         "symbol": "NOC",
-        "name": "Northrop Grumman Corporation",
+        "name": "NOC",
         "price": 521.57,
         "forwardPE": 17.28862,
         "pegRatio": 3.88,
@@ -8065,7 +8065,7 @@
     },
     {
         "symbol": "NRG",
-        "name": "NRG Energy, Inc.",
+        "name": "NRG",
         "price": 129.11,
         "forwardPE": 11.24027,
         "pegRatio": 0.6,
@@ -8089,7 +8089,7 @@
     },
     {
         "symbol": "NSC",
-        "name": "Norfolk Southern Corporation",
+        "name": "NSC",
         "price": 340.16,
         "forwardPE": 24.564669,
         "pegRatio": 4.96,
@@ -8161,7 +8161,7 @@
     },
     {
         "symbol": "NUE",
-        "name": "Nucor Corporation",
+        "name": "NUE",
         "price": 236.61,
         "forwardPE": 13.59102,
         "pegRatio": 5.21,
@@ -8209,7 +8209,7 @@
     },
     {
         "symbol": "NVR",
-        "name": "NVR, Inc.",
+        "name": "NVR",
         "price": 6490.04,
         "forwardPE": 15.634483,
         "pegRatio": 4.97,
@@ -8305,7 +8305,7 @@
     },
     {
         "symbol": "O",
-        "name": "Realty Income Corporation",
+        "name": "O",
         "price": 65.71,
         "forwardPE": 38.71785,
         "pegRatio": 5.68,
@@ -8547,7 +8547,7 @@
         "symbol": "PAYX",
         "name": "Paychex, Inc.",
         "price": 114.39,
-        "forwardPE": 17.90934,
+        "forwardPE": 17.907574,
         "pegRatio": 2.02,
         "roe": 0,
         "sector": "Technology",
@@ -8665,7 +8665,7 @@
     },
     {
         "symbol": "PFE",
-        "name": "Pfizer, Inc.",
+        "name": "PFE",
         "price": 25.05,
         "forwardPE": 8.8405,
         "pegRatio": 2.96,
@@ -8689,7 +8689,7 @@
     },
     {
         "symbol": "PFG",
-        "name": "Principal Financial Group Inc",
+        "name": "PFG",
         "price": 113.95,
         "forwardPE": 11.080976,
         "pegRatio": 1.06,
@@ -8713,7 +8713,7 @@
     },
     {
         "symbol": "PG",
-        "name": "Procter & Gamble Company (The)",
+        "name": "PG",
         "price": 149.98,
         "forwardPE": 21.265072,
         "pegRatio": 4.21,
@@ -8763,7 +8763,7 @@
         "symbol": "PH",
         "name": "Parker-Hannifin Corporation",
         "price": 953.21,
-        "forwardPE": 27.950726,
+        "forwardPE": 27.933844,
         "pegRatio": 3.73,
         "roe": 24.841999,
         "sector": "Industrials",
@@ -8785,7 +8785,7 @@
     },
     {
         "symbol": "PHM",
-        "name": "PulteGroup, Inc.",
+        "name": "PHM",
         "price": 126.08,
         "forwardPE": 11.367202,
         "pegRatio": 1.14,
@@ -8833,7 +8833,7 @@
     },
     {
         "symbol": "PLD",
-        "name": "Prologis, Inc.",
+        "name": "PLD",
         "price": 149.79,
         "forwardPE": 44.185837,
         "pegRatio": 116.52,
@@ -8881,7 +8881,7 @@
     },
     {
         "symbol": "PM",
-        "name": "Philip Morris International Inc",
+        "name": "PM",
         "price": 192.98,
         "forwardPE": 21.114086,
         "pegRatio": 2.69,
@@ -8893,7 +8893,7 @@
         "revenueGrowth": 9.1,
         "debtToEquity": null,
         "freeCashflow": 8575249920,
-        "priceToBook": -32.411823,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 9.5,
             "barriersToEntry": 9.0,
@@ -8953,7 +8953,7 @@
     },
     {
         "symbol": "PNW",
-        "name": "Pinnacle West Capital Corporati",
+        "name": "PNW",
         "price": 107.73,
         "forwardPE": 19.33112,
         "pegRatio": 3.82,
@@ -9001,7 +9001,7 @@
     },
     {
         "symbol": "PPG",
-        "name": "PPG Industries, Inc.",
+        "name": "PPG",
         "price": 117.36,
         "forwardPE": 13.550774,
         "pegRatio": 1.79,
@@ -9025,7 +9025,7 @@
     },
     {
         "symbol": "PPL",
-        "name": "PPL Corporation",
+        "name": "PPL",
         "price": 35.85,
         "forwardPE": 16.9353,
         "pegRatio": 1.39,
@@ -9049,7 +9049,7 @@
     },
     {
         "symbol": "PRU",
-        "name": "Prudential Financial, Inc.",
+        "name": "PRU",
         "price": 119.07,
         "forwardPE": 8.157155,
         "pegRatio": 1.29,
@@ -9265,7 +9265,7 @@
     },
     {
         "symbol": "RCL",
-        "name": "Royal Caribbean Cruises Ltd.",
+        "name": "RCL",
         "price": 286.96,
         "forwardPE": 14.34303,
         "pegRatio": 1.41,
@@ -9289,7 +9289,7 @@
     },
     {
         "symbol": "REG",
-        "name": "Regency Centers Corporation",
+        "name": "REG",
         "price": 82.68,
         "forwardPE": 32.79807,
         "pegRatio": 2.61,
@@ -9337,7 +9337,7 @@
     },
     {
         "symbol": "RF",
-        "name": "Regions Financial Corporation",
+        "name": "RF",
         "price": 31.65,
         "forwardPE": 11.108888,
         "pegRatio": 2.0,
@@ -9457,7 +9457,7 @@
     },
     {
         "symbol": "ROL",
-        "name": "Rollins, Inc.",
+        "name": "ROL",
         "price": 45.11,
         "forwardPE": 32.436436,
         "pegRatio": 3.25,
@@ -9529,7 +9529,7 @@
     },
     {
         "symbol": "RSG",
-        "name": "Republic Services, Inc.",
+        "name": "RSG",
         "price": 222.31,
         "forwardPE": 27.56188,
         "pegRatio": 3.23,
@@ -9769,7 +9769,7 @@
     },
     {
         "symbol": "SNA",
-        "name": "Snap-On Incorporated",
+        "name": "SNA",
         "price": 410.99,
         "forwardPE": 19.247114,
         "pegRatio": 2.3,
@@ -9841,9 +9841,9 @@
     },
     {
         "symbol": "SO",
-        "name": "Southern Company (The)",
+        "name": "SO",
         "price": 95.3,
-        "forwardPE": 19.379726,
+        "forwardPE": 19.388914,
         "pegRatio": 2.61,
         "roe": 10.9910004,
         "sector": "Utilities",
@@ -9889,7 +9889,7 @@
     },
     {
         "symbol": "SPG",
-        "name": "Simon Property Group, Inc.",
+        "name": "SPG",
         "price": 228.7,
         "forwardPE": 33.929787,
         "pegRatio": 4.58,
@@ -9937,7 +9937,7 @@
     },
     {
         "symbol": "SRE",
-        "name": "DBA Sempra",
+        "name": "SRE",
         "price": 92.25,
         "forwardPE": 16.661068,
         "pegRatio": 0.82,
@@ -10033,14 +10033,14 @@
     },
     {
         "symbol": "STX",
-        "name": "Seagate Technology Holdings PLC",
+        "name": "STX",
         "price": 787.66,
         "forwardPE": 27.65697,
         "pegRatio": 0.52,
         "roe": 1787.97,
         "sector": "Technology",
         "change": 5.65668218218889,
-        "marketCap": 176616194048,
+        "marketCap": 178209734656,
         "dividendYield": 0.38,
         "revenueGrowth": 44.1,
         "debtToEquity": 381.553,
@@ -10201,7 +10201,7 @@
     },
     {
         "symbol": "SYY",
-        "name": "Sysco Corporation",
+        "name": "SYY",
         "price": 81.69,
         "forwardPE": 16.493235,
         "pegRatio": 1.6,
@@ -10273,7 +10273,7 @@
     },
     {
         "symbol": "TDG",
-        "name": "Transdigm Group Incorporated",
+        "name": "TDG",
         "price": 1214.43,
         "forwardPE": 25.85603,
         "pegRatio": 3.05,
@@ -10285,7 +10285,7 @@
         "revenueGrowth": 18.3,
         "debtToEquity": null,
         "freeCashflow": 1524875008,
-        "priceToBook": -7.388527,
+        "priceToBook": null,
         "moat": {
             "brandLoyalty": 9.0,
             "barriersToEntry": 9.0,
@@ -10297,7 +10297,7 @@
     },
     {
         "symbol": "TDY",
-        "name": "Teledyne Technologies Incorpora",
+        "name": "TDY",
         "price": 635.52,
         "forwardPE": 24.41215,
         "pegRatio": 1.4,
@@ -10345,7 +10345,7 @@
     },
     {
         "symbol": "TEL",
-        "name": "TE Connectivity plc",
+        "name": "TEL",
         "price": 203.31,
         "forwardPE": 16.105421,
         "pegRatio": 0.93,
@@ -10369,7 +10369,7 @@
     },
     {
         "symbol": "TER",
-        "name": "Teradyne, Inc.",
+        "name": "TER",
         "price": 322.355,
         "forwardPE": 32.770447,
         "pegRatio": 1.28,
@@ -10417,7 +10417,7 @@
     },
     {
         "symbol": "TGT",
-        "name": "Target Corporation",
+        "name": "TGT",
         "price": 139.6,
         "forwardPE": 15.644665,
         "pegRatio": 2.59,
@@ -10489,7 +10489,7 @@
     },
     {
         "symbol": "TMO",
-        "name": "Thermo Fisher Scientific Inc",
+        "name": "TMO",
         "price": 532.48,
         "forwardPE": 19.536886,
         "pegRatio": 1.76,
@@ -10657,7 +10657,7 @@
     },
     {
         "symbol": "TRV",
-        "name": "The Travelers Companies, Inc.",
+        "name": "TRV",
         "price": 368.98,
         "forwardPE": 12.692623,
         "pegRatio": 2.36,
@@ -10729,7 +10729,7 @@
     },
     {
         "symbol": "TSN",
-        "name": "Tyson Foods, Inc.",
+        "name": "TSN",
         "price": 57.77,
         "forwardPE": 12.892643,
         "pegRatio": 1.04,
@@ -10873,7 +10873,7 @@
     },
     {
         "symbol": "TYL",
-        "name": "Tyler Technologies, Inc.",
+        "name": "TYL",
         "price": 319.51,
         "forwardPE": 21.543709,
         "pegRatio": 1.53,
@@ -10957,7 +10957,7 @@
         "revenueGrowth": 4.2,
         "debtToEquity": 142.368,
         "freeCashflow": 1007130496,
-        "priceToBook": 3.9959798,
+        "priceToBook": 4.021849,
         "moat": {
             "brandLoyalty": 4.0,
             "barriersToEntry": 6.0,
@@ -11065,7 +11065,7 @@
     },
     {
         "symbol": "UPS",
-        "name": "United Parcel Service, Inc.",
+        "name": "UPS",
         "price": 117.72,
         "forwardPE": 14.688525,
         "pegRatio": 1.86,
@@ -11137,7 +11137,7 @@
     },
     {
         "symbol": "V",
-        "name": "Visa Inc.",
+        "name": "V",
         "price": 358.56,
         "forwardPE": 24.116596,
         "pegRatio": 1.58,
@@ -11401,7 +11401,7 @@
     },
     {
         "symbol": "VTR",
-        "name": "Ventas, Inc.",
+        "name": "VTR",
         "price": 96.1,
         "forwardPE": 113.503494,
         "pegRatio": 1.72,
@@ -11473,7 +11473,7 @@
     },
     {
         "symbol": "WAB",
-        "name": "Westinghouse Air Brake Technolo",
+        "name": "WAB",
         "price": 262.08,
         "forwardPE": 21.526749,
         "pegRatio": 1.37,
@@ -11569,7 +11569,7 @@
     },
     {
         "symbol": "WDC",
-        "name": "Western Digital Corporation",
+        "name": "WDC",
         "price": 477.22,
         "forwardPE": 25.730211,
         "pegRatio": 0.42,
@@ -11593,7 +11593,7 @@
     },
     {
         "symbol": "WEC",
-        "name": "WEC Energy Group, Inc.",
+        "name": "WEC",
         "price": 113.35,
         "forwardPE": 18.890282,
         "pegRatio": 2.38,
@@ -11648,7 +11648,7 @@
         "roe": 12.575,
         "sector": "Financial Services",
         "change": -0.6358578403542502,
-        "marketCap": 265025388544,
+        "marketCap": 267797184512,
         "dividendYield": 2.06,
         "revenueGrowth": 9.5,
         "debtToEquity": null,
@@ -11737,7 +11737,7 @@
     },
     {
         "symbol": "WRB",
-        "name": "W.R. Berkley Corporation",
+        "name": "WRB",
         "price": 71.61,
         "forwardPE": 14.947336,
         "pegRatio": 4.09,
@@ -11905,7 +11905,7 @@
     },
     {
         "symbol": "XOM",
-        "name": "ExxonMobil Holdings Corporation",
+        "name": "XOM",
         "price": 147.36,
         "forwardPE": 13.941488,
         "pegRatio": 1.25,
@@ -11989,7 +11989,7 @@
         "revenueGrowth": 15.2,
         "debtToEquity": null,
         "freeCashflow": 1261500032,
-        "priceToBook": -5.605578,
+        "priceToBook": -5.5937076,
         "moat": {
             "brandLoyalty": 9.0,
             "barriersToEntry": 6.0,
@@ -12049,7 +12049,7 @@
     },
     {
         "symbol": "ZTS",
-        "name": "Zoetis Inc.",
+        "name": "ZTS",
         "price": 76.56,
         "forwardPE": 10.358544,
         "pegRatio": 1.83,
