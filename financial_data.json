@@ -1597,7 +1597,7 @@
         "revenueGrowth": 13.100000000000001,
         "debtToEquity": null,
         "freeCashflow": null,
-        "priceToBook": 2.7393656,
+        "priceToBook": 2.671325,
         "moat": {
             "brandLoyalty": 5.7,
             "barriersToEntry": 6.1,
@@ -8211,7 +8211,7 @@
         "symbol": "NVR",
         "name": "NVR, Inc.",
         "price": 6490.04,
-        "forwardPE": 15.450467,
+        "forwardPE": 15.634483,
         "pegRatio": 4.97,
         "roe": 33.257,
         "sector": "Consumer Cyclical",
