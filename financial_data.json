@@ -939,7 +939,7 @@
         "symbol": "APP",
         "name": "Applovin Corporation",
         "price": 395.9,
-        "forwardPE": 18.266125,
+        "forwardPE": 18.339317,
         "pegRatio": 1.09,
         "roe": 266.444,
         "sector": "Communication Services",
@@ -2715,7 +2715,7 @@
         "symbol": "CRH",
         "name": "CRH PLC",
         "price": 95.01,
-        "forwardPE": 14.203068,
+        "forwardPE": 14.217222,
         "pegRatio": 1.9,
         "roe": 15.812000000000001,
         "sector": "Basic Materials",
@@ -3013,7 +3013,7 @@
         "revenueGrowth": 52.6,
         "debtToEquity": 23.989,
         "freeCashflow": null,
-        "priceToBook": 2.0904891,
+        "priceToBook": 2.118593,
         "moat": {
             "brandLoyalty": 6.0,
             "barriersToEntry": 9.0,
@@ -4645,7 +4645,7 @@
         "revenueGrowth": 20.599999999999998,
         "debtToEquity": 107.818,
         "freeCashflow": 625750016,
-        "priceToBook": 7.734938,
+        "priceToBook": 7.639355,
         "moat": {
             "brandLoyalty": 9.2,
             "barriersToEntry": 6.9,
@@ -7597,7 +7597,7 @@
         "revenueGrowth": 2.1,
         "debtToEquity": 19.036,
         "freeCashflow": 299249984,
-        "priceToBook": 2.937835,
+        "priceToBook": 3.2351727,
         "moat": {
             "brandLoyalty": 7.0,
             "barriersToEntry": 8.5,
@@ -11917,7 +11917,7 @@
         "revenueGrowth": 44.1,
         "debtToEquity": 15.921,
         "freeCashflow": 20671000576,
-        "priceToBook": 2.5043097,
+        "priceToBook": 2.4642117,
         "moat": {
             "brandLoyalty": 7.0,
             "barriersToEntry": 9.0,
