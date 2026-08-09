@@ -1645,7 +1645,7 @@
         "revenueGrowth": 4.3999999999999995,
         "debtToEquity": 17.669,
         "freeCashflow": 61228249088,
-        "priceToBook": 0.0010321239,
+        "priceToBook": 0.0010463981,
         "moat": {
             "brandLoyalty": 9.5,
             "barriersToEntry": 9.5,
@@ -4093,7 +4093,7 @@
         "revenueGrowth": 5.8999999999999995,
         "debtToEquity": 186.77,
         "freeCashflow": -4400858112,
-        "priceToBook": 2.8648562,
+        "priceToBook": 2.7436326,
         "moat": {
             "brandLoyalty": 4.0,
             "barriersToEntry": 9.5,
@@ -7165,7 +7165,7 @@
         "revenueGrowth": 3.6999999999999997,
         "debtToEquity": null,
         "freeCashflow": 6262374912,
-        "priceToBook": -108.963875,
+        "priceToBook": -189.8202,
         "moat": {
             "brandLoyalty": 9.5,
             "barriersToEntry": 7.0,
@@ -9411,7 +9411,7 @@
         "symbol": "RMD",
         "name": "ResMed Inc.",
         "price": 211.94,
-        "forwardPE": 16.009958,
+        "forwardPE": 16.01608,
         "pegRatio": 1.27,
         "roe": 24.269,
         "sector": "Healthcare",
@@ -9421,7 +9421,7 @@
         "revenueGrowth": 8.6,
         "debtToEquity": 12.542,
         "freeCashflow": 939248256,
-        "priceToBook": 4.7351375,
+        "priceToBook": 4.657101,
         "moat": {
             "brandLoyalty": 8.5,
             "barriersToEntry": 8.0,
