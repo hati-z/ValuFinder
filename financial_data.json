@@ -267,7 +267,7 @@
         "symbol": "ADSK",
         "name": "Autodesk, Inc.",
         "price": 251.66,
-        "forwardPE": 17.68705,
+        "forwardPE": 17.698057,
         "pegRatio": 0.96,
         "roe": 50.395999999999994,
         "sector": "Technology",
@@ -8821,7 +8821,7 @@
         "revenueGrowth": 14.7,
         "debtToEquity": 94.474,
         "freeCashflow": 432950016,
-        "priceToBook": 4.930904,
+        "priceToBook": 4.853159,
         "moat": {
             "brandLoyalty": 5.5,
             "barriersToEntry": 7.0,
@@ -9949,7 +9949,7 @@
         "revenueGrowth": -0.1,
         "debtToEquity": 84.663,
         "freeCashflow": -27657750528,
-        "priceToBook": 1.75114,
+        "priceToBook": 1.7283384,
         "moat": {
             "brandLoyalty": 5.0,
             "barriersToEntry": 9.5,
