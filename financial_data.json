@@ -6541,7 +6541,7 @@
         "revenueGrowth": 2.0,
         "debtToEquity": 413.24,
         "freeCashflow": 2535500032,
-        "priceToBook": 6.4850845,
+        "priceToBook": 6.1168313,
         "moat": {
             "brandLoyalty": 6.5,
             "barriersToEntry": 7.0,
@@ -9052,7 +9052,7 @@
         "name": "Paramount Skydance Corporation",
         "price": 10.21,
         "forwardPE": 12.00047,
-        "pegRatio": 0.8,
+        "pegRatio": 0.73,
         "roe": -0.8959999999999999,
         "sector": "Communication Services",
         "change": -3.860640301318252,
