@@ -157,7 +157,7 @@
         "revenueGrowth": 6.2,
         "debtToEquity": 40.283,
         "freeCashflow": 11181248512,
-        "priceToBook": 3.8161201,
+        "priceToBook": 3.75531,
         "moat": {
             "brandLoyalty": 8.5,
             "barriersToEntry": 6.5,
@@ -1155,7 +1155,7 @@
         "symbol": "AXP",
         "name": "American Express Company",
         "price": 302.78,
-        "forwardPE": 15.010406,
+        "forwardPE": 15.016302,
         "pegRatio": 1.22,
         "roe": 34.377,
         "sector": "Financial Services",
